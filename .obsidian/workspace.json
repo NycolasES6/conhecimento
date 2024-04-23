@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "35fcc22d809c7a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8369227cace77257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064db0f29e4c84bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "camada de aplicação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8f0746f07581905",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3312851db2f188c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29010bb3a568697f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eea45199ee34543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee73d2214f44081e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e350f3182938e8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0017cc517f779bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a71ed64e0efe8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "camada de aplicação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c98c5032c3fdbd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "camada de aplicação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d51d54584812601",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6abf66e7387819b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "camada de aplicação.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "064db0f29e4c84bc",
+  "lastOpenFiles": [
+    "camada de aplicação.md",
+    "README.md",
+    "ISP.md",
+    "modelos de rede/Modelo TCP IP.md",
+    "modelos de rede/Modelo OSI.md",
+    "protocolos/SMTP.md",
+    "modelo TCP/IP.md",
+    "modelo TCP",
+    "TCP/IP.md",
+    "TCP",
+    "modelos de rede",
+    "protocolos",
+    "operadores/Aritmeticos.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "linguagems-de-programacao/Java.md",
+    "linguagems-de-programacao/Python.md",
+    "linguagems-de-programacao/C.md",
+    "linguagems-de-programacao/Linguagem-de-programacao.md",
+    "linguagems-de-programacao",
+    "operadores"
+  ]
+}
