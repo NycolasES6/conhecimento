@@ -1,6 +1,8 @@
 # Ferramentas de hacking
 
-## Análise de tráfego de ree
+Essas ferramentas não estar disponiveis para [[linux]] e [[windows]]
+
+## Análise de tráfego de rede
 
 - Wireshark
 - TCPdump

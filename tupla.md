@@ -1,6 +1,6 @@
 # Tuplas
 
-São parecidas com listas, a principal diferença é que tuplas são imutáveis enquanto listas são mutáveis.
+São parecidas com [[lista]], a principal diferença é que tuplas são imutáveis enquanto listas são mutáveis.
 
 ## Criando tuplas
 

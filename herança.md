@@ -4,7 +4,7 @@
 
 ### Definição
 
-Herança é a capacidade de uma classe filha derivar ou herdar as características e comportamentos da classe pai. Assim fornece a reutilização de código.
+Herança é a capacidade de uma classe filha derivar ou herdar as características e comportamentos da classe pai. Assim fornece a reutilização de código. Pode ser aplicado em [[Python]], [[Java]] e etc....
 
 ## Sintaxe
 

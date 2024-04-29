@@ -1,6 +1,6 @@
 # Portas
 
-As portas vão de 0 até 65535 e normalmente são utilizadas com os protocolos [[TCP]] e [[UDP]].
+As portas vão de 0 até 65535 e normalmente são utilizadas com os protocolos [[tcp]] e [[UDP]].
 
 Um serviço pode ser configurado para funcionar em outra porta que não seja a padrão.
 

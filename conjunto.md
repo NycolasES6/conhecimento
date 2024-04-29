@@ -4,7 +4,7 @@ Conjuntos não podem ter elementos repetidos
 
 Não suportam indexação e nem fatiamento
 
-Caso queira alterar seus valores, tem de converter o conjunto para lista
+Caso queira alterar seus valores, tem de converter o conjunto para [[lista]], muito utilizado em [[Java]]
 
 ## Declaração
 
