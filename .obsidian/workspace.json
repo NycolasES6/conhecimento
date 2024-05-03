@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0129bc92c0d7372e",
+        "id": "ec4eaa0de59e43e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e32a975f9a38d107",
+            "id": "87f24f3fb1462cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/prompt do windows.md",
+                "file": "protocolos/rdp/configurações incorretas do RDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/prompt do windows.md",
+                "file": "protocolos/rdp/configurações incorretas do RDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/prompt do windows.md",
+                "file": "protocolos/rdp/configurações incorretas do RDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/prompt do windows.md"
+                "file": "protocolos/rdp/configurações incorretas do RDP.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e32a975f9a38d107",
+  "active": "87f24f3fb1462cfa",
   "lastOpenFiles": [
     "README.md",
+    "tupla.md",
     "octal-binario.md",
+    "windows/prompt do windows.md",
     "octais.md",
     "notacao-posicional.md",
     "hexadecimal-binario.md",
@@ -160,11 +162,9 @@
     "string/Manipular strings.md",
     "conjunto.md",
     "poo/encapsulamento.md",
-    "tupla.md",
     "Pasted image 20240503154110.jpg",
     "poo/polimorfismo com heranca.md",
     "poo/polimorfismo.md",
-    "windows/prompt do windows.md",
     "protocolos/dns/ultimas vulnerabilidades de DNS.md",
     "protocolos/dns/falsificação de dns.md",
     "img/target.webp",
