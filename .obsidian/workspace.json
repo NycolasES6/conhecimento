@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "enumeracao-de-rede-com-nmap/enumeracao-de-hosts/mecanismo-de-script-nmap.md",
+                "file": "windows/prompt do windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enumeracao-de-rede-com-nmap/enumeracao-de-hosts/mecanismo-de-script-nmap.md",
+                "file": "windows/prompt do windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enumeracao-de-rede-com-nmap/enumeracao-de-hosts/mecanismo-de-script-nmap.md",
+                "file": "windows/prompt do windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enumeracao-de-rede-com-nmap/enumeracao-de-hosts/mecanismo-de-script-nmap.md"
+                "file": "windows/prompt do windows.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "e32a975f9a38d107",
   "lastOpenFiles": [
+    "README.md",
+    "octal-binario.md",
+    "octais.md",
+    "notacao-posicional.md",
+    "hexadecimal-binario.md",
+    "exadecimal.md",
+    "binarios.md",
+    "enumeracao-de-rede-com-nmap/enumeracao-de-hosts/mecanismo-de-script-nmap.md",
     "variaveis de classe e de isntancia.md",
     "string/Manipular strings.md",
     "conjunto.md",
@@ -177,15 +185,7 @@
     "protocolos/rdp/atacando RDP.md",
     "protocolos/dns",
     "assuntos/hacking.md",
-    "assuntos/assuntos.md",
-    "assuntos/linux.md",
     "protocolos",
-    "linux/analise de logs.md",
-    "sql/Capturar hash de serviço MSSQL.md",
-    "sql/Ataques específicos de protocolo SQL.md",
-    "sql/Atacando bancos de dados SQL.md",
-    "redes/SMTP.md",
-    "redes/portas.md",
     "img/attack_concept2.webp",
     "img/rdp_session-5.webp",
     "img/Pasted image 20240502090251.jpg",
