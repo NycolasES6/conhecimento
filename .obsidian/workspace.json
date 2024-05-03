@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3c08fb341d953b5",
+        "id": "0129bc92c0d7372e",
         "type": "tabs",
         "children": [
           {
-            "id": "72b59d69fbf8a6e8",
+            "id": "e32a975f9a38d107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polimorfismo com heranca.md",
+                "file": "variaveis de classe e de isntancia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polimorfismo com heranca.md",
+                "file": "variaveis de classe e de isntancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polimorfismo com heranca.md",
+                "file": "variaveis de classe e de isntancia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polimorfismo com heranca.md"
+                "file": "variaveis de classe e de isntancia.md"
               }
             }
           }
@@ -146,53 +146,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "72b59d69fbf8a6e8",
+  "active": "e32a975f9a38d107",
   "lastOpenFiles": [
-    "polimorfismo com heranca.md",
-    "polimorfismo.md",
-    "analise de logs.md",
-    "prompt do windows.md",
-    "binário.md",
-    "linux/gerenciar rede no linux.md",
-    "ssh.md",
-    "tupla.md",
+    "variaveis de classe e de isntancia.md",
+    "string/Manipular strings.md",
     "conjunto.md",
-    "linux/alguns comandos linux.md",
-    "linux/localizando arquivos no linux.md",
-    "linux.md",
-    "linux/gerenciando usuarios linux.md",
-    "ferramentas de hacking.md",
-    "herança.md",
-    "string.md",
-    "Livros/Livro - Redes de computadores e a internet.md",
-    "linux/gerenciando servicos linux.md",
-    "2024-04-29.md",
+    "poo/encapsulamento.md",
+    "tupla.md",
+    "Pasted image 20240503154110.jpg",
+    "poo/polimorfismo com heranca.md",
+    "poo/polimorfismo.md",
+    "windows/prompt do windows.md",
+    "protocolos/dns/ultimas vulnerabilidades de DNS.md",
+    "protocolos/dns/falsificação de dns.md",
+    "img/target.webp",
+    "2024-05-03.md",
+    "img/etter_site.webp",
+    "img/etter_plug.webp",
     "Sem título.canvas",
-    "Pasted image 20240426103852.png",
-    "Atacando bancos de dados SQL.md",
-    "tcp.md",
-    "ARP.md",
-    "linux",
-    "endereço IP.md",
-    "endereço lógico (IP address).md",
-    "redes/Ethernet.md",
-    "redes/acesso a a internet a cabo.md",
-    "Pasted image 20240426111319.png",
-    "Pasted image 20240426104909.png",
-    "Pasted image 20240426103013.png",
-    "Pasted image 20240426095931.png",
-    "Pasted image 20240426095859.png",
-    "Pasted image 20240426095232.png",
-    "poo",
-    "Pasted image 20240425165708.png",
-    "Livros",
-    "marcações",
-    "redes",
-    "string",
-    "modelo TCP",
-    "TCP",
-    "modelos de rede",
+    "img/attack_concept2 1.webp",
+    "img/image-3.webp",
+    "exercicios/HTB Academy - Attacking common Services-DNS Lab.md",
+    "exercicios",
+    "Sem título 1.canvas",
+    "protocolos/dns/aquisições de domínio e enumeração de subdomínios DNS.md",
+    "img/s3.webp",
+    "protocolos/dns/transferência de zona dns.md",
+    "protocolos/dns/enumeracao de dns.md",
+    "protocolos/dns/dns.md",
+    "protocolos/rdp/atacando RDP.md",
+    "protocolos/dns",
+    "assuntos/hacking.md",
+    "assuntos/assuntos.md",
+    "assuntos/linux.md",
     "protocolos",
-    "Sem título 1.canvas"
+    "linux/analise de logs.md",
+    "sql/Capturar hash de serviço MSSQL.md",
+    "sql/Ataques específicos de protocolo SQL.md",
+    "sql/Atacando bancos de dados SQL.md",
+    "redes/SMTP.md",
+    "redes/portas.md",
+    "img/attack_concept2.webp",
+    "img/rdp_session-5.webp",
+    "img/Pasted image 20240502090251.jpg",
+    "protocolos/rdp",
+    "assuntos",
+    "img",
+    "sql",
+    "windows",
+    "linux",
+    "poo"
   ]
 }
