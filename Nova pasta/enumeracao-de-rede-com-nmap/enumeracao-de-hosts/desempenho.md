@@ -1,10 +1,10 @@
 # Desempenho
 
-O desempenho da verificação desempenha um papel significativo quando precisamos verificar uma rede extensa ou quando lidamos com baixa largura de banda da rede. Podemos usar várias opções para dizer Nmapquão rápido ( -T <0-5>), com qual frequência ( --min-parallelism <number>), quais timeouts ( --max-rtt-timeout <time>) os pacotes de teste devem ter, quantos pacotes devem ser enviados simultaneamente ( --min-rate <number>) e com o número de novas tentativas ( --max-retries <number>) para as portas escaneadas. os alvos devem ser escaneados.
+O desempenho da verificação desempenha um papel significativo quando precisamos verificar uma rede extensa ou quando lidamos com baixa largura de banda da rede. Podemos usar várias opções para dizer Nmap quão rápido ( -T ``<0-5>``), com qual frequência ( ``--min-parallelism <number>``), quais timeouts ( ``--max-rtt-timeout <time>``) os pacotes de teste devem ter, quantos pacotes devem ser enviados simultaneamente ( ``--min-rate <number>``) e com o número de novas tentativas ( ``--max-retries <number>``) para as portas escaneadas. os alvos devem ser escaneados.
 
 ## Tempo limite
 
-Quando o Nmap envia um pacote, leva algum tempo (Round-Trip-Time - RTT) para receber uma resposta da porta verificada. Geralmente o Nmapinicia com um timeout alto (--min-RTT-timeout) de 100ms. Vejamos um exemplo de varredura de toda a rede com 256 hosts, incluindo as 100 principais portas.
+Quando o Nmap envia um pacote, leva algum tempo (Round-Trip-Time - RTT) para receber uma resposta da porta verificada. Geralmente o [[Nmap]] inicia com um timeout alto (--min-RTT-timeout) de 100ms. Vejamos um exemplo de varredura de toda a rede com 256 hosts, incluindo as 100 principais portas.
 
 ### Verificação padrão
 

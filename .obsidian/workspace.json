@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4eaa0de59e43e5",
+        "id": "d957c3222e9e5626",
         "type": "tabs",
         "children": [
           {
-            "id": "87f24f3fb1462cfa",
+            "id": "9749ea317dba1276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocolos/rdp/configurações incorretas do RDP.md",
+                "file": "metodos de classe.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocolos/rdp/configurações incorretas do RDP.md",
+                "file": "metodos de classe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocolos/rdp/configurações incorretas do RDP.md",
+                "file": "metodos de classe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocolos/rdp/configurações incorretas do RDP.md"
+                "file": "metodos de classe.md"
               }
             }
           }
@@ -146,55 +147,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87f24f3fb1462cfa",
+  "active": "9749ea317dba1276",
   "lastOpenFiles": [
+    "Sites para testar abilidades.md",
+    "metodos de classe.md",
+    "Nova pasta/variaveis de classe e de isntancia.md",
+    "tarefas de segurança cibernetica.md",
+    "gerações.md",
+    "images/Pasted image 20240506144118.png",
+    "Sem título.md",
+    "ameaça, vulnerabilidade e risco.md",
+    "images/Pasted image 20240506115220.png",
+    "perda de dados.md",
+    "vetores de ataques de rede.md",
+    "images/Pasted image 20240506101012.png",
+    "images",
     "README.md",
-    "tupla.md",
-    "octal-binario.md",
-    "windows/prompt do windows.md",
-    "octais.md",
-    "notacao-posicional.md",
-    "hexadecimal-binario.md",
-    "exadecimal.md",
-    "binarios.md",
-    "enumeracao-de-rede-com-nmap/enumeracao-de-hosts/mecanismo-de-script-nmap.md",
-    "variaveis de classe e de isntancia.md",
-    "string/Manipular strings.md",
-    "conjunto.md",
-    "poo/encapsulamento.md",
-    "Pasted image 20240503154110.jpg",
-    "poo/polimorfismo com heranca.md",
-    "poo/polimorfismo.md",
-    "protocolos/dns/ultimas vulnerabilidades de DNS.md",
-    "protocolos/dns/falsificação de dns.md",
-    "img/target.webp",
-    "2024-05-03.md",
-    "img/etter_site.webp",
-    "img/etter_plug.webp",
+    "Nova pasta/Livros/Livro - Redes de computadores e a internet.md",
+    "Nova pasta/Livros",
+    "Nova pasta/linux/analise de logs.md",
+    "Nova pasta/linux/localizando arquivos no linux.md",
+    "Nova pasta/linux/gerenciar rede no linux.md",
+    "Nova pasta/linux/gerenciando usuarios linux.md",
+    "Nova pasta/linux/gerenciando servicos linux.md",
+    "Nova pasta/linux/alguns comandos linux.md",
+    "Nova pasta/linux",
+    "Nova pasta/introducao/introducao-shell.md",
+    "Nova pasta/introducao/Estrutura.md",
+    "Nova pasta/introducao",
+    "Nova pasta/img/~BROMIUM/tmux.webp",
+    "Nova pasta/img/~BROMIUM/hierarquia-sistema-de-arquivos.png",
+    "Nova pasta/img/~BROMIUM/first_linux2.webp",
+    "Nova pasta/img/s3.webp",
+    "Nova pasta/img/wlc.png",
+    "Nova pasta/img/~BROMIUM",
+    "Nova pasta/img/rdp_session-5.webp",
+    "Nova pasta/img/which-01.png",
+    "Nova pasta/img",
+    "Nova pasta/fluxo-trabalho/regex.md",
+    "Nova pasta/fluxo-trabalho/procurando-arquivos-e-diretorios.md",
+    "Nova pasta/fluxo-trabalho/filtrar-conteudo.md",
+    "Nova pasta/fluxo-trabalho/descritores-e-redirecionamentos-de-arquivos.md",
+    "Nova pasta/fluxo-trabalho/editando-arquivos.md",
+    "Nova pasta/fluxo-trabalho/degrenciamento-de-permissoes.md",
+    "Nova pasta/fluxo-trabalho/arquivos-e-diretorios.md",
+    "Nova pasta/fluxo-trabalho",
+    "Nova pasta/exercicios",
+    "Nova pasta/enumeracao-de-rede-com-nmap/introducao",
+    "Nova pasta/enumeracao-de-rede-com-nmap/ignorar-medidas-de-seguranca",
     "Sem título.canvas",
-    "img/attack_concept2 1.webp",
-    "img/image-3.webp",
-    "exercicios/HTB Academy - Attacking common Services-DNS Lab.md",
-    "exercicios",
-    "Sem título 1.canvas",
-    "protocolos/dns/aquisições de domínio e enumeração de subdomínios DNS.md",
-    "img/s3.webp",
-    "protocolos/dns/transferência de zona dns.md",
-    "protocolos/dns/enumeracao de dns.md",
-    "protocolos/dns/dns.md",
-    "protocolos/rdp/atacando RDP.md",
-    "protocolos/dns",
-    "assuntos/hacking.md",
-    "protocolos",
-    "img/attack_concept2.webp",
-    "img/rdp_session-5.webp",
-    "img/Pasted image 20240502090251.jpg",
-    "protocolos/rdp",
-    "assuntos",
-    "img",
-    "sql",
-    "windows",
-    "linux",
-    "poo"
+    "Sem título 1.canvas"
   ]
 }
