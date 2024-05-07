@@ -16,12 +16,17 @@ Os profissionais de segurança de rede protegem os dados da organização. Vári
 
 Os vetores comuns de perda de dados são exibidos na tabela.
 
-- E-mail/Redes sociais - O vetor mais comum para a perda de dados inclui software de sistema de mensagens instantâneas e sites de mídia social. Por exemplo, e-mails ou mensagens instantâneas interceptadas podem ser capturados e revelar informações disponíveis.
-- Dispositivos não criptografados - Um laptop corporativo normalmente contém dados organizacionais. Se os dados não forem armazenados usando um algoritmo de criptografia, o ladrão poderá recuperar dados úteis.
-- Armazenamento em nuvem - Salvar dados na nuvem tem muitos benefícios potenciais. Os dados fornecidos podem ser perdidos se o acesso à nuvem for comprometido devido a configurações de segurança contra falhas.
-- Mídia convidada - Um risco é que um funcionário possa realizar uma transferência não autorizada de dados para uma unidade USB. Outro risco é a perda de uma unidade USB contendo dados corporativos importantes.
-- Cópia impressa - Os dados corporativos devem ser completamente descartados. Os dados fornecidos devem ser fragmentados quando não forem mais necessários. Caso contrário, um ladrão pode recuperar relatórios descartados e obter informações valiosas.
-- Controle de acesso inadequado - Senhas são a primeira linha de defesa Senhas ou senhas fracas que foram comprometidas podem fornecer a um agente de ameaças acesso fácil aos dados corporativos.
+- **E-mail/Redes sociais** - O vetor mais comum para a perda de dados inclui software de sistema de mensagens instantâneas e sites de mídia social. Por exemplo, e-mails ou mensagens instantâneas interceptadas podem ser capturados e revelar informações disponíveis.
+
+- **Dispositivos não criptografados** - Um laptop corporativo normalmente contém dados organizacionais. Se os dados não forem armazenados usando um algoritmo de criptografia, o ladrão poderá recuperar dados úteis.
+
+- **Armazenamento em nuvem** - Salvar dados na nuvem tem muitos benefícios potenciais. Os dados fornecidos podem ser perdidos se o acesso à nuvem for comprometido devido a configurações de segurança contra falhas.
+
+- **Mídia convidada** - Um risco é que um funcionário possa realizar uma transferência não autorizada de dados para uma unidade USB. Outro risco é a perda de uma unidade USB contendo dados corporativos importantes.
+
+- **Cópia impressa** - Os dados corporativos devem ser completamente descartados. Os dados fornecidos devem ser fragmentados quando não forem mais necessários. Caso contrário, um ladrão pode recuperar relatórios descartados e obter informações valiosas.
+
+- **Controle de acesso inadequado** - Senhas são a primeira linha de defesa Senhas ou senhas fracas que foram comprometidas podem fornecer a um agente de ameaças acesso fácil aos dados corporativos.
 
 
 
