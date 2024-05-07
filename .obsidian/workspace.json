@@ -4,31 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c4f8fca2fe4077",
+        "id": "020fe8cf77265737",
         "type": "tabs",
         "children": [
           {
-            "id": "3348ed0f2058e2bf",
+            "id": "966d61a90370091a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materiais/CyberGames_Fundamentos Ciber/CyberGames_Fundamentos Ciber - curriculo.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 4_Atacando o que fazemos.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1dc68152157e1dc8",
+        "type": "tabs",
+        "children": [
           {
-            "id": "51771082c250d808",
+            "id": "411acef3885d4b43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exploits HTTP comuns.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: indic",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exploits HTTP comuns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exploits HTTP comuns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exploits HTTP comuns.md"
+              }
             }
           }
         ]
@@ -152,54 +165,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "51771082c250d808",
+  "active": "411acef3885d4b43",
   "lastOpenFiles": [
-    "materiais/CyberGames_Fundamentos Ciber/CyberGames_Fundamentos Ciber - curriculo.md",
-    "O cabeçalho do pacote IPv6.md",
-    "materiais/CyberGames_Fundamentos Ciber/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes -.md",
-    "IPv4 e IPv6.md",
-    "gerações.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 4_Atacando o que fazemos.md",
+    "Exploits HTTP comuns.md",
+    "HTTP e HTTPS.md",
+    "Ataques DHCP.md",
+    "Pasted image 20240507162440.png",
+    "Pasted image 20240507162350.png",
+    "Pasted image 20240507162246.png",
+    "Pasted image 20240507162151.png",
+    "Ataques DNS.md",
+    "Tunelamento DNS.md",
+    "DHCP.md",
+    "Pasted image 20240507161451.png",
+    "Pasted image 20240507161316.png",
+    "Envenenamento de cache ARP.md",
+    "Pasted image 20240507154923.png",
+    "Pasted image 20240507154823.png",
+    "Pasted image 20240507154733.png",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 3_Atacando a fundação.md",
+    "Vulnerabilidades ARP.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos",
+    "Sem título",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios",
+    "images/Pasted image 20240507133646.png",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacando a Fundação.md",
+    "Ataques TCP.md",
+    "Ataques de falsificação de endereços.md",
+    "Cabeçalho e Operação do Segmento UDP.md",
     "O cabeçalho do pacote IPv4.md",
-    "materiais",
-    "images/Pasted image 20240507105308.png",
-    "materiais/CyberGames_Fundamentos Ciber",
-    "images/Pasted image 20240507102154.png",
-    "compartilhamento de ameaças e conscientização sobre segurança cibernética.md",
-    "images/Pasted image 20240507100024.png",
-    "indicadores de ameaças cibernéticas.md",
-    "interfaces.md",
-    "métodos de classe.md",
-    "perda de dados.md",
-    "Sites para testar abilidades.md",
-    "tarefas de segurança cibernética.md",
-    "vetores de ataques de rede.md",
-    "Sem título 1.md",
-    "ameaça, vulnerabilidade e risco.md",
-    "Nova pasta/variaveis de classe e de isntancia.md",
-    "images/Pasted image 20240506144118.png",
-    "images/Pasted image 20240506115220.png",
-    "images/Pasted image 20240506101012.png",
+    "Ataques UDP.md",
+    "IPv4 e IPv6.md",
+    "O cabeçalho do pacote IPv6.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes.md",
+    "Serviços TCP.md",
+    "Cabeçalho do Segmento TCP.md",
+    "Ataques de amplificação e reflexão.md",
+    "Ataques ICMP.md",
+    "Vulnerabilidades de IP.md",
+    "2024-05-07.md",
+    "gerações.md",
+    "cursos",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber",
     "images",
-    "README.md",
-    "Nova pasta/Livros/Livro - Redes de computadores e a internet.md",
     "Nova pasta/Livros",
-    "Nova pasta/linux/analise de logs.md",
-    "Nova pasta/linux/localizando arquivos no linux.md",
-    "Nova pasta/linux/gerenciar rede no linux.md",
-    "Nova pasta/linux/gerenciando usuarios linux.md",
-    "Nova pasta/linux/gerenciando servicos linux.md",
-    "Nova pasta/linux/alguns comandos linux.md",
     "Nova pasta/linux",
-    "Nova pasta/introducao/introducao-shell.md",
     "Nova pasta/introducao",
-    "Nova pasta/img/~BROMIUM/tmux.webp",
-    "Nova pasta/img/~BROMIUM/hierarquia-sistema-de-arquivos.png",
-    "Nova pasta/img/~BROMIUM/first_linux2.webp",
-    "Nova pasta/img/s3.webp",
     "Nova pasta/img/~BROMIUM",
-    "Nova pasta/img",
-    "Nova pasta/fluxo-trabalho",
-    "Nova pasta/exercicios",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

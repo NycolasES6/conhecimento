@@ -2,9 +2,9 @@
 
 - Vigilância por vídeo contínua
 
-#### 2 - O que é hiperjacking?
+#### 2 - O que é hiperjacking ?
 
-- Assumir um hipervisor de máquina virtual como parte de um ataque de data center
+- Assumir um hypervisor de máquina virtual como parte de um ataque de data center
 
 #### 3 - Qual afirmação caracteriza com precisão a evolução das ameaças à segurança da rede?
 
