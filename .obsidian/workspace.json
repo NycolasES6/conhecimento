@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "020fe8cf77265737",
+        "id": "04253680cc09d14e",
         "type": "tabs",
         "children": [
           {
-            "id": "966d61a90370091a",
+            "id": "627edf0edad44d6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,26 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1dc68152157e1dc8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "411acef3885d4b43",
+            "id": "cc67e5f398a2e22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploits HTTP comuns.md",
+                "file": "Mitigação de ataque DDoS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploits HTTP comuns.md",
+                "file": "Mitigação de ataque DDoS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploits HTTP comuns.md",
+                "file": "Mitigação de ataque DDoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploits HTTP comuns.md"
+                "file": "Mitigação de ataque DDoS.md"
               }
             }
           }
@@ -157,62 +152,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "411acef3885d4b43",
+  "active": "cc67e5f398a2e22b",
   "lastOpenFiles": [
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 4_Atacando o que fazemos.md",
+    "Mitigação de ataque DDoS.md",
+    "Mitigando ataques de acesso.md",
+    "Pasted image 20240508175801.png",
+    "Mitigando Ataques de Reconhecimento.md",
+    "Pasted image 20240508175654.png",
+    "Mitigando Worms.md",
+    "Pasted image 20240508174853.png",
+    "Mitigando Malware.md",
+    "Defender a rede.md",
+    "Scripts do lado do cliente.md",
+    "Bancos de dados expostos pela web.md",
+    "Untitled.md",
+    "Ameaças em E-mail.md",
     "Exploits HTTP comuns.md",
+    "assuntos a estudar de programação.md",
+    "assuntos a estudar",
     "HTTP e HTTPS.md",
     "Ataques DHCP.md",
-    "Pasted image 20240507162440.png",
-    "Pasted image 20240507162350.png",
-    "Pasted image 20240507162246.png",
-    "Pasted image 20240507162151.png",
+    "images/Pasted image 20240507162440.png",
+    "images/Pasted image 20240507162350.png",
+    "images/Pasted image 20240507162246.png",
+    "images/Pasted image 20240507162151.png",
     "Ataques DNS.md",
     "Tunelamento DNS.md",
     "DHCP.md",
-    "Pasted image 20240507161451.png",
-    "Pasted image 20240507161316.png",
+    "images/Pasted image 20240507161451.png",
+    "images/Pasted image 20240507161316.png",
     "Envenenamento de cache ARP.md",
-    "Pasted image 20240507154923.png",
-    "Pasted image 20240507154823.png",
-    "Pasted image 20240507154733.png",
+    "images/Pasted image 20240507154923.png",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 3_Atacando a fundação.md",
     "Vulnerabilidades ARP.md",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos",
     "Sem título",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios",
-    "images/Pasted image 20240507133646.png",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacando a Fundação.md",
     "Ataques TCP.md",
     "Ataques de falsificação de endereços.md",
     "Cabeçalho e Operação do Segmento UDP.md",
     "O cabeçalho do pacote IPv4.md",
-    "Ataques UDP.md",
-    "IPv4 e IPv6.md",
-    "O cabeçalho do pacote IPv6.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes.md",
-    "Serviços TCP.md",
-    "Cabeçalho do Segmento TCP.md",
-    "Ataques de amplificação e reflexão.md",
-    "Ataques ICMP.md",
-    "Vulnerabilidades de IP.md",
-    "2024-05-07.md",
-    "gerações.md",
     "cursos",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber",
     "images",
     "Nova pasta/Livros",
     "Nova pasta/linux",
     "Nova pasta/introducao",
-    "Nova pasta/img/~BROMIUM",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
