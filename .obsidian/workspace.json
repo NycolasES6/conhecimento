@@ -4,35 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "04253680cc09d14e",
+        "id": "9b5619585810e7b4",
         "type": "tabs",
         "children": [
           {
-            "id": "627edf0edad44d6f",
+            "id": "088e276f7318afb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 4_Atacando o que fazemos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc67e5f398a2e22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mitigação de ataque DDoS.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 6_Dispositivos de segurança.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "306c1f8854c34055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d46493968bc3f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appliances de segurança especializados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
+    "width": 428.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitigação de ataque DDoS.md",
+                "file": "Appliances de segurança especializados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitigação de ataque DDoS.md",
+                "file": "Appliances de segurança especializados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitigação de ataque DDoS.md"
+                "file": "Appliances de segurança especializados.md"
               }
             }
           }
@@ -160,54 +165,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc67e5f398a2e22b",
+  "active": "b8d46493968bc3f1",
   "lastOpenFiles": [
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 4_Atacando o que fazemos.md",
-    "Mitigação de ataque DDoS.md",
-    "Mitigando ataques de acesso.md",
-    "Pasted image 20240508175801.png",
-    "Mitigando Ataques de Reconhecimento.md",
-    "Pasted image 20240508175654.png",
-    "Mitigando Worms.md",
-    "Pasted image 20240508174853.png",
-    "Mitigando Malware.md",
-    "Defender a rede.md",
-    "Scripts do lado do cliente.md",
-    "Bancos de dados expostos pela web.md",
-    "Untitled.md",
-    "Ameaças em E-mail.md",
-    "Exploits HTTP comuns.md",
-    "assuntos a estudar de programação.md",
-    "assuntos a estudar",
-    "HTTP e HTTPS.md",
-    "Ataques DHCP.md",
-    "images/Pasted image 20240507162440.png",
-    "images/Pasted image 20240507162350.png",
-    "images/Pasted image 20240507162246.png",
-    "images/Pasted image 20240507162151.png",
-    "Ataques DNS.md",
-    "Tunelamento DNS.md",
-    "DHCP.md",
-    "images/Pasted image 20240507161451.png",
-    "images/Pasted image 20240507161316.png",
-    "Envenenamento de cache ARP.md",
-    "images/Pasted image 20240507154923.png",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 3_Atacando a fundação.md",
-    "Vulnerabilidades ARP.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos",
-    "Sem título",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacando a Fundação.md",
-    "Ataques TCP.md",
-    "Ataques de falsificação de endereços.md",
-    "Cabeçalho e Operação do Segmento UDP.md",
-    "O cabeçalho do pacote IPv4.md",
-    "cursos",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber",
-    "images",
-    "Nova pasta/Livros",
-    "Nova pasta/linux",
-    "Nova pasta/introducao",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 6_Dispositivos de segurança.md",
+    "Appliances de segurança especializados.md",
+    "Tipos de IPS.md",
+    "Pasted image 20240510184631.png",
+    "Vantagens e desvantagens de IDS e IPS.md",
+    "Pasted image 20240510175125.png",
+    "Descrição de tipos de firewall.md",
+    "Pasted image 20240510173052.jpg",
+    "Pasted image 20240510172854.png",
+    "Pasted image 20240510172714.png",
+    "Pasted image 20240510172555.png",
+    "Arquiteturas comuns de segurança.md",
+    "Pasted image 20240510164001.png",
+    "Pasted image 20240510163858.png",
+    "Pasted image 20240510163234.png",
+    "images/Pasted image 20240510133138.png",
+    "Tipos de Ataque/Cavalo de Tróia.md",
+    "Tipos de Ataque/Fixação de Sessão.md",
+    "Tipos de Ataque/FalsificaçãodeConteudo.md",
+    "Tipos de Ataque/Falsificação de Pedido Cross-Site [CSFR - Cross-Site Forgery Request].md",
+    "Tipos de Ataque/Estouro de Recursos de Arquivos Binários.md",
+    "Tipos de Ataque/Divulgação Completa de Caminho.md",
+    "Tipos de Ataque/Divisão de resposta HTTP.md",
+    "Tipos de Ataque/Desfiguração Cross Usuário.md",
+    "Tipos de Ataque/Delimitador de Parâmetro.md",
+    "Tipos de Ataque/Definir Manipulação.md",
+    "Tipos de Ataque/Cross-Site Scripting XSS (XSS).md",
+    "Tipos de Ataque/Cross-Frame Scripting ataque.md",
+    "Tipos de Ataque/Cross Site História Manipulação (XSHM).md",
+    "Tipos de Ataque/Criptoanálise.md",
+    "Tipos de Ataque/Contrabando de Requisição HTTP.md",
+    "Tipos de Ataque/ConsumoDeRecursosAssimetricos.md",
+    "Tipos de Ataque/Código móvel_invocando código móvel não confiável.md",
+    "Tipos de Ataque/Código móvel_ sequestro de objeto.md",
+    "Tipos de Ataque/Código móvel_ campo público não-final.md",
+    "Tipos de Ataque/Codificação Unicode.md",
+    "Tipos de Ataque/Travessia de Caminho Relativo.txt",
+    "Tipos de Ataque/Spyware.txt",
+    "Tipos de Ataque/Rastreamento Cross-Site.txt",
+    "Tipos de Ataque/Pós-execução de redireccionamento (EAR).txt",
+    "Tipos de Ataque/Página de Sequestro (Page Hijacking).txt",
+    "Tipos de Ataque/Previsão de Sessão.txt",
+    "Tipos de Ataque/PlantaçãodeBinários.txt",
+    "Tipos de Ataque/Negação de Serviço (DoS).txt",
+    "Tipos de Ataque/Navegação Forçada.txt",
+    "Tipos de Ataque/Manipulação de caminho.txt",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
