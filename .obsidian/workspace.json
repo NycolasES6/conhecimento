@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b5619585810e7b4",
+        "id": "6bd4ee0d3d4edc41",
         "type": "tabs",
         "children": [
           {
-            "id": "088e276f7318afb6",
+            "id": "195a754c61152483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 6_Dispositivos de segurança.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 8_Visão geral do Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "306c1f8854c34055",
+        "id": "8244eb83e477a623",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d46493968bc3f1",
+            "id": "eab6cacf75785c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appliances de segurança especializados.md",
+                "file": "Monitoramento de logs de serviço.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Comandos ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
+    "width": 405.5,
     "collapsed": true
   },
   "right": {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appliances de segurança especializados.md",
+                "file": "Monitoramento de logs de serviço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appliances de segurança especializados.md",
+                "file": "Monitoramento de logs de serviço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appliances de segurança especializados.md"
+                "file": "Monitoramento de logs de serviço.md"
               }
             }
           }
@@ -165,44 +165,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8d46493968bc3f1",
+  "active": "eab6cacf75785c66",
   "lastOpenFiles": [
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 6_Dispositivos de segurança.md",
-    "Appliances de segurança especializados.md",
-    "Tipos de IPS.md",
-    "Pasted image 20240510184631.png",
-    "Vantagens e desvantagens de IDS e IPS.md",
-    "Pasted image 20240510175125.png",
-    "Descrição de tipos de firewall.md",
-    "Pasted image 20240510173052.jpg",
-    "Pasted image 20240510172854.png",
-    "Pasted image 20240510172714.png",
-    "Pasted image 20240510172555.png",
-    "Arquiteturas comuns de segurança.md",
-    "Pasted image 20240510164001.png",
-    "Pasted image 20240510163858.png",
-    "Pasted image 20240510163234.png",
-    "images/Pasted image 20240510133138.png",
-    "Tipos de Ataque/Cavalo de Tróia.md",
-    "Tipos de Ataque/Fixação de Sessão.md",
-    "Tipos de Ataque/FalsificaçãodeConteudo.md",
-    "Tipos de Ataque/Falsificação de Pedido Cross-Site [CSFR - Cross-Site Forgery Request].md",
-    "Tipos de Ataque/Estouro de Recursos de Arquivos Binários.md",
-    "Tipos de Ataque/Divulgação Completa de Caminho.md",
-    "Tipos de Ataque/Divisão de resposta HTTP.md",
-    "Tipos de Ataque/Desfiguração Cross Usuário.md",
-    "Tipos de Ataque/Delimitador de Parâmetro.md",
-    "Tipos de Ataque/Definir Manipulação.md",
-    "Tipos de Ataque/Cross-Site Scripting XSS (XSS).md",
-    "Tipos de Ataque/Cross-Frame Scripting ataque.md",
-    "Tipos de Ataque/Cross Site História Manipulação (XSHM).md",
-    "Tipos de Ataque/Criptoanálise.md",
-    "Tipos de Ataque/Contrabando de Requisição HTTP.md",
-    "Tipos de Ataque/ConsumoDeRecursosAssimetricos.md",
-    "Tipos de Ataque/Código móvel_invocando código móvel não confiável.md",
-    "Tipos de Ataque/Código móvel_ sequestro de objeto.md",
-    "Tipos de Ataque/Código móvel_ campo público não-final.md",
-    "Tipos de Ataque/Codificação Unicode.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 8_Visão geral do Linux.md",
+    "Monitoramento de logs de serviço.md",
+    "Dispositivos de endurecimento.md",
+    "Arquivos de configuração de serviço.md",
+    "Clientes de servidor.md",
+    "Pasted image 20240514182606.png",
+    "Servidores, Serviços e Suas Portas.md",
+    "Uma Introdução às Comunicações Cliente-Servidor.md",
+    "Pasted image 20240514181250.png",
+    "A importância dos arquivos de texto no Linux.md",
+    "Pasted image 20240514175548.png",
+    "Trabalhando com arquivos de texto.md",
+    "Pasted image 20240514175315.png",
+    "Comandos Básicos do Linux.md",
+    "O Shell Linux.md",
+    "Pasted image 20240514173126.jpg",
+    "Ferramentas Linux.md",
+    "Pasted image 20240514172559.jpg",
+    "Linux no SOC.md",
+    "Pasted image 20240514170459.png",
+    "O valor do Linux.md",
+    "O que é Linux.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 7_O sistema operacional Windows.md",
+    "Ataques ICMP.md",
+    "Ataques UDP.md",
+    "Ataques TCP.md",
+    "Ataque DoS.md",
+    "assuntos a estudar de programação.md",
+    "Ameaças em E-mail.md",
+    "images/Pasted image 20240514100733.png",
+    "images/Pasted image 20240514153617.png",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 7_questionários sobre sistema operacional Windows.md",
+    "O Comando net.md",
+    "O Comando netstat.md",
+    "Windows Defender Firewall.md",
+    "images/Pasted image 20240514152247.png",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/exames",
     "Tipos de Ataque/Travessia de Caminho Relativo.txt",
     "Tipos de Ataque/Spyware.txt",
     "Tipos de Ataque/Rastreamento Cross-Site.txt",
@@ -212,7 +213,6 @@
     "Tipos de Ataque/PlantaçãodeBinários.txt",
     "Tipos de Ataque/Negação de Serviço (DoS).txt",
     "Tipos de Ataque/Navegação Forçada.txt",
-    "Tipos de Ataque/Manipulação de caminho.txt",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
