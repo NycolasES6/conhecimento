@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd4ee0d3d4edc41",
+        "id": "c181aeb371c27ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "195a754c61152483",
+            "id": "fc4d407f5c6e69eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 8_Visão geral do Linux.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "8244eb83e477a623",
+        "id": "d3edc6d8ea9f7b88",
         "type": "tabs",
         "children": [
           {
-            "id": "eab6cacf75785c66",
+            "id": "120306f150b3372d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoramento de logs de serviço.md",
+                "file": "Tríade da CIA – O Princípio da Confidencialidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Comandos ",
+                "query": "file: Redes loc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monitoramento de logs de serviço.md",
+                "file": "Tríade da CIA – O Princípio da Confidencialidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monitoramento de logs de serviço.md",
+                "file": "Tríade da CIA – O Princípio da Confidencialidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monitoramento de logs de serviço.md"
+                "file": "Tríade da CIA – O Princípio da Confidencialidade.md"
               }
             }
           }
@@ -165,54 +165,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab6cacf75785c66",
+  "active": "120306f150b3372d",
   "lastOpenFiles": [
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
+    "Tríade da CIA – O Princípio da Confidencialidade.md",
+    "O cubo da segurança cibernética.md",
+    "Pasted image 20240517182758.png",
+    "Pasted image 20240517182423.png",
+    "Pasted image 20240517181851.png",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 9_Proteção do sistema e do endpoint.md",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 8_Visão geral do Linux.md",
-    "Monitoramento de logs de serviço.md",
-    "Dispositivos de endurecimento.md",
-    "Arquivos de configuração de serviço.md",
-    "Clientes de servidor.md",
-    "Pasted image 20240514182606.png",
-    "Servidores, Serviços e Suas Portas.md",
-    "Uma Introdução às Comunicações Cliente-Servidor.md",
-    "Pasted image 20240514181250.png",
-    "A importância dos arquivos de texto no Linux.md",
-    "Pasted image 20240514175548.png",
-    "Trabalhando com arquivos de texto.md",
-    "Pasted image 20240514175315.png",
-    "Comandos Básicos do Linux.md",
-    "O Shell Linux.md",
-    "Pasted image 20240514173126.jpg",
-    "Ferramentas Linux.md",
-    "Pasted image 20240514172559.jpg",
-    "Linux no SOC.md",
-    "Pasted image 20240514170459.png",
-    "O valor do Linux.md",
-    "O que é Linux.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 7_O sistema operacional Windows.md",
-    "Ataques ICMP.md",
-    "Ataques UDP.md",
-    "Ataques TCP.md",
-    "Ataque DoS.md",
-    "assuntos a estudar de programação.md",
-    "Ameaças em E-mail.md",
-    "images/Pasted image 20240514100733.png",
-    "images/Pasted image 20240514153617.png",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 7_questionários sobre sistema operacional Windows.md",
-    "O Comando net.md",
-    "O Comando netstat.md",
-    "Windows Defender Firewall.md",
-    "images/Pasted image 20240514152247.png",
+    "Estrutura Linux.md",
+    "cursos/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Introdução.md",
+    "Pasted image 20240517165552.png",
+    "cursos/HTB - BashScript",
+    "cursos/HTB - Fundamentos do Linux/capitulos",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 1_Comunicação em um mundo conectado.md",
+    "cursos/HTB - Fundamentos do Linux",
+    "Frequências de LAN sem fio.md",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 4_Construindo uma rede doméstica.md",
+    "Roteadores típicos de rede doméstica.md",
+    "Pasted image 20240517115533.png",
+    "Componentes de uma rede doméstica.md",
+    "Pasted image 20240517115034.png",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 3_Redes sem fio e móveis.md",
+    "Dispositivos móveis e WIFI.md",
+    "Outras redes sem fio.md",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 2_Componentes, tipos e conexões de rede.md",
+    "Infraestrutura de Rede.md",
+    "Dispositivos Finais.md",
+    "Opções Adicionais para Conectividade.md",
+    "Pasted image 20240517110745.png",
+    "Serviços ISP.md",
+    "Conexões de cabo e DSL.md",
+    "Pasted image 20240517110116.png",
+    "Conexões ISP.md",
+    "Pasted image 20240517105800.png",
+    "Pasted image 20240517105446.png",
+    "Múltiplas Funções na rede.md",
+    "Aplicações Ponto-a-Ponto.md",
+    "Redes Ponto-a-Ponto.md",
+    "Funções de clientes e servidores.md",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos",
+    "cursos/Conceitos básicos de rede - CISCO",
+    "POO Python",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/exames",
     "Tipos de Ataque/Travessia de Caminho Relativo.txt",
     "Tipos de Ataque/Spyware.txt",
     "Tipos de Ataque/Rastreamento Cross-Site.txt",
-    "Tipos de Ataque/Pós-execução de redireccionamento (EAR).txt",
-    "Tipos de Ataque/Página de Sequestro (Page Hijacking).txt",
-    "Tipos de Ataque/Previsão de Sessão.txt",
-    "Tipos de Ataque/PlantaçãodeBinários.txt",
-    "Tipos de Ataque/Negação de Serviço (DoS).txt",
-    "Tipos de Ataque/Navegação Forçada.txt",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

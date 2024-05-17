@@ -1,0 +1,9 @@
+#CISCO #redes 
+# Conexões de cabo e DSL
+
+A maioria dos usuários de rede doméstica não se conecta aos provedores de serviços com cabos de fibra óptica. A figura ilustra as opções comuns de conexão para usuários de residências e pequenos escritórios. Os dois métodos mais comuns são os seguintes:
+
+- **Cabo -** Normalmente oferecido por provedores de serviços de televisão a cabo, o sinal de dados de internet é transportado no mesmo cabo coaxial que entrega a televisão a cabo. Ele fornece uma conexão com a internet sempre ativa com alta largura de banda. Um cable modem especial separa o sinal de dados da Internet dos outros sinais transmitidos pelo cabo e fornece uma conexão Ethernet para um computador host ou LAN.
+- **DSL - Linha digital do Assinante** fornece uma conexão com a internet sempre ativa e com alta largura de banda. Ele requer um modem especial de alta velocidade que separa o sinal DSL do sinal de telefone e fornece uma conexão Ethernet para um computador host ou LAN. A DSL passa por uma linha telefônica, com a linha dividida em três canais. Um canal é usado para chamadas telefônicas. Esse canal permite que um indivíduo receba chamadas telefônicas sem se desconectar da Internet. Um segundo canal é um canal de download mais rápido, usado para receber informações da Internet. O terceiro canal é usado para enviar ou carregar informações. Esse canal geralmente é um pouco mais lento do que o canal de download. A qualidade e a velocidade da conexão DSL depende principalmente da qualidade da linha telefônica e da distância da central telefônica da operadora de telefonia. Quanto mais longe você estiver da central telefônica, mais lenta será a conexão.
+
+![[Pasted image 20240517110116.png]]

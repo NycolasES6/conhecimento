@@ -27,6 +27,21 @@
 - [[Dispositivos de endurecimento]]
 - [[Monitoramento de logs de serviço]]
 
+## 5 - O sistema de arquivos Linux
+
+- [[Os tipos de sistema de arquivos no Linux]]
+- [[Funções do Linux e permissões de arquivo]]
+- [[Links rígidos e links simbólicos]]
+
+## 7 - Trabalhando em um Host Linux
+
+- [[Instalando e executando aplicativos em um host Linux]]
+- [[Manter o sistema Linux atualizado]]
+- [[Processos e forks]]
+- [[Malware em um host Linux]]
+- [[Verificação de Rootkit]]
+- [[Comandos de tabulação]]
+
 
 
 

@@ -1,5 +1,5 @@
 #redes #Windows 
-# CyberGames_Fundamentos Ciber - 6_questionários sobre Infraestrutura de Segurança de Rede
+# CyberGames_Fundamentos Ciber - 7_questionários sobre sistema operacional Windows
 
 ### 1 - Quando um usuário faz alterações nas configurações de um sistema Windows, onde essas alterações são armazenadas?
 
