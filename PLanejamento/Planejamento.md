@@ -3,12 +3,24 @@
 - Variar nos cursos
 - 15 minutos de descanso
 
+---
+
 ## Assuntos
 
 - Redes
 - Digitação
 - Windows / Linux
 - Python / BashScript
+
+### Windows
+
+- [ ] PowerShell
+
+### Linux
+
+- [ ] Bash
+
+---
 
 ## Plataformas
 
@@ -17,6 +29,8 @@
 
 - NetAcad
 - SkillsForAll
+
+---
 
 ## Blocos
 
@@ -33,6 +47,11 @@
 - Redes
 - Linux
 - BashScript
+
+## Assuntos
+
+
+
 
 ## Windows
 

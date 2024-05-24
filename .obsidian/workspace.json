@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c181aeb371c27ebf",
+        "id": "f28d6ce85bcf4815",
         "type": "tabs",
         "children": [
           {
-            "id": "fc4d407f5c6e69eb",
+            "id": "37d1ca3ad1855d62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3edc6d8ea9f7b88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "120306f150b3372d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tríade da CIA – O Princípio da Confidencialidade.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Redes loc",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -104,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tríade da CIA – O Princípio da Confidencialidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tríade da CIA – O Princípio da Confidencialidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tríade da CIA – O Princípio da Confidencialidade.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,54 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120306f150b3372d",
+  "active": "37d1ca3ad1855d62",
   "lastOpenFiles": [
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
-    "Tríade da CIA – O Princípio da Confidencialidade.md",
-    "O cubo da segurança cibernética.md",
-    "Pasted image 20240517182758.png",
-    "Pasted image 20240517182423.png",
-    "Pasted image 20240517181851.png",
+    "linguagens/python.md",
+    "Argumentos em bashScript.md",
+    "argumentos de arquivos python.md",
+    "PLanejamento/Anotações de cursos.md",
+    "linguagens",
+    "paradigmas de programação/POO.md",
+    "Acessando recursos de rede no Windows.md",
+    "Captura de tela 2024-05-15 144404.png",
+    "Operação HIDS.md",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 9_Proteção do sistema e do endpoint.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 8_Visão geral do Linux.md",
-    "Estrutura Linux.md",
-    "cursos/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Introdução.md",
-    "Pasted image 20240517165552.png",
+    "Detecção de Intrusão Baseado em Host.md",
+    "Descrição de tipos de firewall.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 10_questionário sobre Princípios, Práticas e Processos de Segurança Cibernética.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 9_questionário sobre Proteção de endpoint.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 8_questionários sobre conceitos básicos do Linux.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacando a Fundação.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacar o que fazemos.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes.md",
+    "Resumo - Principios, praticas e processos.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
+    "O cubo da segurança cibernética.md",
+    "Padrões.md",
+    "Políticas.md",
+    "Estabelecimento de uma cultura de conscientização de segurança cibernética.md",
+    "Tecnologias baseadas em hardware e software.md",
+    "Dados em Processo.md",
+    "Desafios dos Dados em Trânsito.md",
+    "Dados em trânsito.md",
+    "images/find9.webp",
+    "images/Pasted image 20240522110359.png",
+    "images/find2.webp",
+    "config",
+    "images/Pasted image 20240522103151.png",
+    "images/Pasted image 20240522095723.png",
+    "cursos/HTB - BashScript/capitulos",
+    "images/find7.webp",
+    "images/find5.webp",
+    "images/find4.webp",
+    "images/find3.webp",
+    "cursos/Conceitos básicos de rede - CISCO/exames",
+    "cursos/Conceitos básicos de rede - CISCO/questionarios",
     "cursos/HTB - BashScript",
     "cursos/HTB - Fundamentos do Linux/capitulos",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 1_Comunicação em um mundo conectado.md",
     "cursos/HTB - Fundamentos do Linux",
-    "Frequências de LAN sem fio.md",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 4_Construindo uma rede doméstica.md",
-    "Roteadores típicos de rede doméstica.md",
-    "Pasted image 20240517115533.png",
-    "Componentes de uma rede doméstica.md",
-    "Pasted image 20240517115034.png",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 3_Redes sem fio e móveis.md",
-    "Dispositivos móveis e WIFI.md",
-    "Outras redes sem fio.md",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 2_Componentes, tipos e conexões de rede.md",
-    "Infraestrutura de Rede.md",
-    "Dispositivos Finais.md",
-    "Opções Adicionais para Conectividade.md",
-    "Pasted image 20240517110745.png",
-    "Serviços ISP.md",
-    "Conexões de cabo e DSL.md",
-    "Pasted image 20240517110116.png",
-    "Conexões ISP.md",
-    "Pasted image 20240517105800.png",
-    "Pasted image 20240517105446.png",
-    "Múltiplas Funções na rede.md",
-    "Aplicações Ponto-a-Ponto.md",
-    "Redes Ponto-a-Ponto.md",
-    "Funções de clientes e servidores.md",
     "cursos/Conceitos básicos de rede - CISCO/capitulos",
     "cursos/Conceitos básicos de rede - CISCO",
-    "POO Python",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/exames",
-    "Tipos de Ataque/Travessia de Caminho Relativo.txt",
-    "Tipos de Ataque/Spyware.txt",
-    "Tipos de Ataque/Rastreamento Cross-Site.txt",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

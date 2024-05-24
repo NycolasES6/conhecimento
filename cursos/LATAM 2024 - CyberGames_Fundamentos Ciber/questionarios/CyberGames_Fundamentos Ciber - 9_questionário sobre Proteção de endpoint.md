@@ -1,5 +1,5 @@
 #SO  #Linux  
-# CyberGames_Fundamentos Ciber - 9_Proteção de endpoint
+# CyberGames_Fundamentos Ciber - 9_questionário sobre Proteção de endpoint
 
 ### 1 - Qual abordagem de software antimalware pode considerar várias características de arquivos de malware conhecidos para detectar uma ameaça?
 

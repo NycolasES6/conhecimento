@@ -1,0 +1,4 @@
+#redes #CISCO
+# A internet e os padrões
+
+Um padrão é um conjunto de regras que determina como algo deve ser feito. Os padrões de rede e de Internet asseguram que todos os dispositivos conectados à rede implementem o mesmo conjunto de regras ou protocolos da mesma forma. O uso de padrões permite que diferentes tipos de dispositivos enviem informações entre si pela Internet. Por exemplo, o modo como um e-mail é formatado, encaminhado e recebido por todos os dispositivos segue um padrão. Se uma pessoa enviar um e-mail através de um computador pessoal, outra pessoa poderá usar um celular para receber e ler o e-mail, desde que o telefone celular utilize os mesmos padrões do computador pessoal.

@@ -9,3 +9,14 @@
 ## 2 - Tecnologias de rede na residência
 
 - [[Frequências de LAN sem fio]]
+- [[Tecnologia de redes com fio]]
+
+## 3 - Padrões de Redes Sem Fio
+
+- [[Redes WI-FI]]
+- [[Configurações de redes sem fio]]
+
+## 4 - Configurar um roteador doméstico
+
+- [[Primeira configuração de um roteador doméstico]]
+- [[Considerações de design de um roteador doméstico]]
