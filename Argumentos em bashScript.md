@@ -42,11 +42,22 @@ bash script.sh google.com
 You choose domain google.com
 ```
 
-## Variáveis especiais
 
+## Matrizes.sh
 
+```bash
+#!/bin/bash
 
+domains=(www.inlanefreight.com ftp.inlanefreight.com vpn.inlanefreight.com www2.inlanefreight.com)
 
+echo ${domains[0]}
+```
+
+```sh
+NycolasES6@htb[/htb]$ ./Arrays.sh
+
+www.inlanefreight.com ftp.inlanefreight.com vpn.inlanefreight.com
+```
 
 
 

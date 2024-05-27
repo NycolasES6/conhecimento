@@ -7,10 +7,8 @@
 - [x] Hierarquia do sistema de arquivos do Linux
 - [x] obter informações do sistema
 - [x] Descritores de arquivos
-- [ ] Filtrar conteúdo
+- [x] Filtrar conteúdo
+- [ ] SUID & SGID
 - [ ] 
-
-/etc/environment
-
 
 

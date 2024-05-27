@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f28d6ce85bcf4815",
+        "id": "882ba870cb09756a",
         "type": "tabs",
         "children": [
           {
-            "id": "37d1ca3ad1855d62",
+            "id": "564cd56a79a5461c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cursos/Novo Pentest Profissional - DESEC/capitulos/TCP IP para pentesters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "683e00e847034785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composição de um protocolo de rede.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Composição de um protocolo de rede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Composição de um protocolo de rede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Composição de um protocolo de rede.md"
+              }
             }
           }
         ]
@@ -138,36 +160,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37d1ca3ad1855d62",
+  "active": "683e00e847034785",
   "lastOpenFiles": [
-    "linguagens/python.md",
+    "Pasted image 20240527185506.png",
+    "cursos/Novo Pentest Profissional - DESEC/capitulos/TCP IP para pentesters.md",
+    "Composição de um protocolo de rede.md",
+    "introdução a redes TCP IP.md",
+    "Pasted image 20240527183745.png",
+    "Pasted image 20240527183547.png",
+    "Pasted image 20240527183210.png",
+    "cursos/Novo Pentest Profissional - DESEC/capitulos",
+    "cursos/Novo Pentest Profissional - DESEC",
+    "Untitled 1",
+    "Operadores de comparação em bashScript.md",
+    "cursos/HTB - BashScript/capitulos/HTB - BashScript_Componentes de trabalho.md",
+    "Variaveis em bashScript.md",
     "Argumentos em bashScript.md",
-    "argumentos de arquivos python.md",
-    "PLanejamento/Anotações de cursos.md",
+    "cursos/Livros/Livros de linux.md",
+    "Grupos no linux.md",
+    "Untitled 1.md",
+    "cursos/Livros",
+    "Untitled",
+    "cursos/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Fluxo de trabalho.md",
+    "Gerenciamento de permissões no Linux.md",
+    "PLanejamento/Linux.md",
+    "Expressões regulares no Linux.md",
+    "Filtrar conteúdo no Linux.md",
+    "cursos/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Introdução.md",
+    "Comando ls.md",
+    "Informação do sistema Linux.md",
+    "cursos/Conceitos básicos de rede - CISCO/questionarios/Conceitos básicos de rede CISCO - 7_questionário sobre a Camada de Acesso.md",
+    "Pasted image 20240527114507.png",
+    "cursos/Conceitos básicos de rede - CISCO/questionarios/Conceitos básicos de rede CISCO - 5_questionário sobre Princípios de comunicação.md",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 7_A camada de acesso.md",
+    "Envenenamento de cache ARP.md",
+    "Redes.md",
+    "Vulnerabilidades ARP.md",
+    "PLanejamento/HJ.md",
     "linguagens",
-    "paradigmas de programação/POO.md",
-    "Acessando recursos de rede no Windows.md",
     "Captura de tela 2024-05-15 144404.png",
-    "Operação HIDS.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 9_Proteção do sistema e do endpoint.md",
-    "Detecção de Intrusão Baseado em Host.md",
-    "Descrição de tipos de firewall.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 10_questionário sobre Princípios, Práticas e Processos de Segurança Cibernética.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 9_questionário sobre Proteção de endpoint.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 8_questionários sobre conceitos básicos do Linux.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacando a Fundação.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacar o que fazemos.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes.md",
-    "Resumo - Principios, praticas e processos.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
-    "O cubo da segurança cibernética.md",
-    "Padrões.md",
-    "Políticas.md",
-    "Estabelecimento de uma cultura de conscientização de segurança cibernética.md",
-    "Tecnologias baseadas em hardware e software.md",
-    "Dados em Processo.md",
-    "Desafios dos Dados em Trânsito.md",
-    "Dados em trânsito.md",
     "images/find9.webp",
     "images/Pasted image 20240522110359.png",
     "images/find2.webp",
@@ -175,17 +206,8 @@
     "images/Pasted image 20240522103151.png",
     "images/Pasted image 20240522095723.png",
     "cursos/HTB - BashScript/capitulos",
-    "images/find7.webp",
-    "images/find5.webp",
-    "images/find4.webp",
-    "images/find3.webp",
     "cursos/Conceitos básicos de rede - CISCO/exames",
     "cursos/Conceitos básicos de rede - CISCO/questionarios",
-    "cursos/HTB - BashScript",
-    "cursos/HTB - Fundamentos do Linux/capitulos",
-    "cursos/HTB - Fundamentos do Linux",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos",
-    "cursos/Conceitos básicos de rede - CISCO",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
