@@ -5,3 +5,6 @@
 - [ ] NAS
 - [ ] SAN
 - [ ] Armazenamento em nuvem
+- [ ] DMZ
+- [ ] VLANs
+- [ ] 

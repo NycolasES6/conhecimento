@@ -1,0 +1,6 @@
+- **Acesso LAN não autorizado:** armários de fiação, data centers e salas de computadores devem permanecer seguros Negar acesso a qualquer pessoa sem as credenciais apropriadas.
+- **Acesso não autorizado a sistemas aplicações e dados:** Definir políticas, padrões, procedimentos e diretrizes rígidos de controle de acesso.
+- **Vulnerabilidades de software no sistema operacional da rede:** implemente políticas para corrigir e atualizar sistemas operacionais.
+- **Acesso não autorizado de usuarios nos potos de acesso não autorizados:** Requerer frases de autenticação e autenticação dos pontos de acesso
+- **Exploits dos dados em transito:** Implementar criptografia entre os dispositivos wireless.
+- **Sondagem de rede e varredura de porta não autorizadas:** Realize testes de penetração pós-configuração.

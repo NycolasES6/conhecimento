@@ -9,8 +9,9 @@
 
 - Redes
 - Digitação
-- Windows / Linux
-- Python / BashScript
+- Sistemas operacionais (Windows / Linux)
+- Python / C
+- BashScript / PowerShellScript
 
 ### Windows
 
@@ -47,13 +48,3 @@
 - Redes
 - Linux
 - BashScript
-
-## Assuntos
-
-
-
-
-## Windows
-
-- [Segurança do Windows - Microsoft](https://learn.microsoft.com/en-us/windows/security/)
-- [Powershell](https://learn.microsoft.com/pt-br/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.4)

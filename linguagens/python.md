@@ -1,4 +1,2 @@
-#programação #python
-# python
-
-- [[argumentos de arquivos python]]
+#programação 
+# Python
