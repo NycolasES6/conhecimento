@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f28d6ce85bcf4815",
+        "id": "540472093f86a899",
         "type": "tabs",
+        "dimension": 46.92556634304207,
         "children": [
           {
-            "id": "37d1ca3ad1855d62",
+            "id": "d3382e35b7d8cecf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 11_Compreendendo a defesa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "19716be9a6b958f9",
+        "type": "tabs",
+        "dimension": 53.07443365695793,
+        "children": [
+          {
+            "id": "45b09aeff7304e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estratégias de Defesa em Produndidade.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estratégias de Defesa em Produndidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estratégias de Defesa em Produndidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estratégias de Defesa em Produndidade.md"
+              }
             }
           }
         ]
@@ -138,8 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37d1ca3ad1855d62",
+  "active": "45b09aeff7304e56",
   "lastOpenFiles": [
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 11_Compreendendo a defesa.md",
+    "Estratégias de Defesa em Produndidade.md",
+    "A Cebola Alcachofra da segurança.md",
+    "O estágio do ciclo de vida dos ativos.md",
+    "Padronização dos ativos.md",
+    "classificação dos ativos.md",
+    "Identificar ativos.md",
+    "Ativos, vulnerabilidades e ameaças.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
     "linguagens/python.md",
     "Argumentos em bashScript.md",
     "argumentos de arquivos python.md",
@@ -159,15 +197,6 @@
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacar o que fazemos.md",
     "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes.md",
     "Resumo - Principios, praticas e processos.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
-    "O cubo da segurança cibernética.md",
-    "Padrões.md",
-    "Políticas.md",
-    "Estabelecimento de uma cultura de conscientização de segurança cibernética.md",
-    "Tecnologias baseadas em hardware e software.md",
-    "Dados em Processo.md",
-    "Desafios dos Dados em Trânsito.md",
-    "Dados em trânsito.md",
     "images/find9.webp",
     "images/Pasted image 20240522110359.png",
     "images/find2.webp",
