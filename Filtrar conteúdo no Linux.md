@@ -112,19 +112,88 @@ user6:x:1000:1000:,,,:/home/user6:/bin/bash
 ```
 
 
-## 
+## Cut
+
+Resultados específicos com caracteres diferentes podem ser separados como delimitadores. Aqui é útil saber como remover delimitadores específicos e mostrar as palavras em uma linha em uma posição especificada. Uma das ferramentas que podem ser utilizadas para isso é o `cut`. Portanto usamos a opção " `-d`" e definimos o delimitador para o caractere de dois pontos ( `:`) e definimos com a opção " `-f`" a posição na linha que queremos gerar.
+
+```sh
+NycolasES6@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | cut -d":" -f1
+
+root
+sync
+mrb3n
+cry0l1t3
+htb-student
+```
 
 
+## Tr
 
+Outra possibilidade de substituir determinados caracteres de uma linha por caracteres definidos por nós é a ferramenta `tr`. Como primeira opção definimos qual caractere queremos substituir e, como segunda opção, definimos o caracter pelo qual queremos substituí-lo. No próximo exemplo, substituímos o caractere dois pontos por espaço.
 
+```sh
+NycolasES6@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " "
 
+root x 0 0 root /root /bin/bash
+sync x 4 65534 sync /bin /bin/sync
+mrb3n x 1000 1000 mrb3n /home/mrb3n /bin/bash
+cry0l1t3 x 1001 1001  /home/cry0l1t3 /bin/bash
+htb-student x 1002 1002  /home/htb-student /bin/bash
+```
 
+## Column
 
+Como os resultados da pesquisa muitas vezes podem ter uma representação pouco clara, a ferramenta `column` é adequada para exibir esses resultados em formato tabular usando o " `-t`."
 
+```sh
+NycolasES6@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | column -t
 
+root         x  0     0      root               /root        /bin/bash
+sync         x  4     65534  sync               /bin         /bin/sync
+mrb3n        x  1000  1000   mrb3n              /home/mrb3n  /bin/bash
+cry0l1t3     x  1001  1001   /home/cry0l1t3     /bin/bash
+htb-student  x  1002  1002   /home/htb-student  /bin/bash
+```
 
+## Awk
 
+Como podemos ter notado, o usuário " `postgres`" tem uma linha a mais. Para manter a classificação de tais resultados o mais simples possível, a programação ( `g`) `awk` é benéfica, que nos permite exibir o primeiro ( `$1`) e o último ( `$NF`) resultado da linha.
 
+```sh
+NycolasES6@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | awk '{print $1, $NF}'
+
+root /bin/bash
+sync /bin/sync
+mrb3n /bin/bash
+cry0l1t3 /bin/bash
+htb-student /bin/bash
+```
+
+## Sed
+
+Haverá momentos em que desejaremos alterar nomes específicos em todo o arquivo ou na entrada padrão. Uma das ferramentas que podemos usar para isso é o editor de stream chamado `sed`. Um dos usos mais comuns disso é a substituição de texto. Aqui, `sed` procura padrões que definimos na forma de expressões regulares (regex) e os substituímos por outro padrão que também definimos. Vamos nos ater aos últimos resultados e dizer que queremos substituir a palavra " `bin`" por " `HTB`."
+
+O sinalizador "`s`" no início representa o comando substituto. Em seguida, especificamos o padrão que queremos substituir. Após a barra (`/`), inserimos o padrão que queremos usar como substituto na terceira posição. Por fim, usamos a  flag "`g`", que significa substituir todas as correspondências.
+
+```sh
+NycolasES6@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | awk '{print $1, $NF}' | sed 's/bin/HTB/g'
+
+root /HTB/bash
+sync /HTB/sync
+mrb3n /HTB/bash
+cry0l1t3 /HTB/bash
+htb-student /HTB/bash
+```
+
+## Wc
+
+Por último, mas não menos importante, muitas vezes será útil saber quantas partidas bem-sucedidas temos. Para evitar a contagem manual de linhas ou caracteres, podemos usar a ferramenta `wc`. Com a opção "`-l`", especificamos que apenas as linhas são contadas.
+
+```sh
+NycolasES6@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | awk '{print $1, $NF}' | wc -l
+
+5
+```
 
 
 

@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "540472093f86a899",
+        "id": "a089f7b4ce620688",
         "type": "tabs",
-        "dimension": 46.92556634304207,
         "children": [
           {
-            "id": "d3382e35b7d8cecf",
+            "id": "4efc7b67ed112466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 11_Compreendendo a defesa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "19716be9a6b958f9",
-        "type": "tabs",
-        "dimension": 53.07443365695793,
-        "children": [
-          {
-            "id": "45b09aeff7304e56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estratégias de Defesa em Produndidade.md",
+                "file": "configurações packet tracer/VTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estratégias de Defesa em Produndidade.md",
+                "file": "configurações packet tracer/VTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estratégias de Defesa em Produndidade.md",
+                "file": "configurações packet tracer/VTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estratégias de Defesa em Produndidade.md"
+                "file": "configurações packet tracer/VTP.md"
               }
             }
           }
@@ -167,54 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b09aeff7304e56",
+  "active": "4efc7b67ed112466",
   "lastOpenFiles": [
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 11_Compreendendo a defesa.md",
-    "Estratégias de Defesa em Produndidade.md",
-    "A Cebola Alcachofra da segurança.md",
-    "O estágio do ciclo de vida dos ativos.md",
-    "Padronização dos ativos.md",
-    "classificação dos ativos.md",
-    "Identificar ativos.md",
-    "Ativos, vulnerabilidades e ameaças.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 10_Principios, praticas e processos.md",
-    "linguagens/python.md",
-    "Argumentos em bashScript.md",
-    "argumentos de arquivos python.md",
-    "PLanejamento/Anotações de cursos.md",
-    "linguagens",
-    "paradigmas de programação/POO.md",
-    "Acessando recursos de rede no Windows.md",
-    "Captura de tela 2024-05-15 144404.png",
-    "Operação HIDS.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 9_Proteção do sistema e do endpoint.md",
-    "Detecção de Intrusão Baseado em Host.md",
-    "Descrição de tipos de firewall.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 10_questionário sobre Princípios, Práticas e Processos de Segurança Cibernética.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 9_questionário sobre Proteção de endpoint.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - 8_questionários sobre conceitos básicos do Linux.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacando a Fundação.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Atacar o que fazemos.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/questionarios/CyberGames_Fundamentos Ciber - questionário de Segurança de Redes.md",
-    "Resumo - Principios, praticas e processos.md",
-    "images/find9.webp",
-    "images/Pasted image 20240522110359.png",
-    "images/find2.webp",
-    "config",
-    "images/Pasted image 20240522103151.png",
-    "images/Pasted image 20240522095723.png",
-    "cursos/HTB - BashScript/capitulos",
-    "images/find7.webp",
-    "images/find5.webp",
-    "images/find4.webp",
-    "images/find3.webp",
-    "cursos/Conceitos básicos de rede - CISCO/exames",
-    "cursos/Conceitos básicos de rede - CISCO/questionarios",
-    "cursos/HTB - BashScript",
-    "cursos/HTB - Fundamentos do Linux/capitulos",
-    "cursos/HTB - Fundamentos do Linux",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos",
-    "cursos/Conceitos básicos de rede - CISCO",
+    "exercicios/drf.md",
+    "configurações packet tracer/VTP.md",
+    "Pasted image 20240529171724.png",
+    "Pasted image 20240529171708.png",
+    "Pasted image 20240529171618.png",
+    "configurações packet tracer",
+    "config/DHCP em roteadores cisco.md",
+    "config/Configuração de interfaces.md",
+    "config/Configurar roteador cisco.md",
+    "exercicios",
+    "Servidores DHCP.md",
+    "Endereçamento estático e dinâmico.md",
+    "Listas/links.md",
+    "Atribuição dinâmica de endereço IPv4.md",
+    "Untitled 2.md",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 11_Endereçamento dinâmico com DHCP.md",
+    "Pasted image 20240529113628.png",
+    "Pasted image 20240529113254.png",
+    "Tipos de Ataque/Spyware.txt",
+    "Tipos de Ataque/Spyware.md.txt",
+    "Tipos de Ataque/Travessia de Caminho Relativo.txt",
+    "Tipos de Ataque/Rastreamento Cross-Site.txt",
+    "Tipos de Ataque/Pós-execução de redireccionamento (EAR).txt",
+    "Tipos de Ataque/Página de Sequestro (Page Hijacking).txt",
+    "Tipos de Ataque/Previsão de Sessão.txt",
+    "Tipos de Ataque/PlantaçãodeBinários.txt",
+    "Pasted image 20240529112807.png",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 10_Formatos e regras de endereçamento IPv6.md",
+    "Hexadecimal regra 1 -  Omitir zeros à esquerda.md",
+    "Hexadecimal regra 2 - Dois pontos duplos.md",
+    "Formatos de endereçamento IPv6.md",
+    "Pasted image 20240529105659.png",
+    "Sistema de enumeração hexadecimal.md",
+    "Coexistência entre IPv4 e IPv6.md",
+    "Pasted image 20240529104940.png",
+    "Pasted image 20240529104903.png",
+    "Pasted image 20240529104826.png",
+    "A necessidade do IPv6.md",
+    "Endereçamento IPv4 de uso especial.md",
+    "Broadcast.md",
+    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 9_IPv4 e segmentação de rede.md",
+    "Razões para segmentar redes.md",
+    "Problemas com Domínios de Broadcast Grandes.md",
+    "Domínios de broadcast e segmentação.md",
+    "Atribuição de Endereços IP.md",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
