@@ -1,6 +1,6 @@
 #redes 
 
-# HTTP and HTTPS
+# HTTP e HTTPS
 
 Os navegadores da Internet são usados por quase todos. Bloquear completamente a navegação na Web não é uma opção porque as empresas precisam de acesso à Web, sem comprometer a segurança da Web.
 
@@ -34,19 +34,21 @@ Para se defender contra ataques baseados na web, as seguintes contramedidas deve
 
 O OWASP Top 10 Riscos de Segurança de Aplicativos Web foi projetado para ajudar as organizações a criar aplicativos Web seguros. É uma lista útil de potenciais vulnerabilidades que são comumente exploradas por atores de ameaças.
 
+## Exploração de injeção iFrame de HTTP
 
+![[Pasted image 20240604113241.png]]
 
+Para lidar com a alteração ou interceptação de dados confidenciais, muitas organizações comerciais adotaram HTTPS ou implementaram políticas somente HTTPS para proteger os visitantes de seus sites e serviços.
 
+HTTPS adiciona uma camada de criptografia ao protocolo HTTP usando Secure Socket Layer (SSL), como mostrado na figura. Isso torna os dados HTTP ilegíveis, pois deixam o computador de origem até chegar ao servidor. Observe que HTTPS não é um mecanismo para a segurança do servidor Web. Ele só protege o tráfego de protocolo HTTP enquanto está em trânsito.
 
+## Diagrama de protocolo HTTPS
 
+![[Pasted image 20240604113343.png]]
 
+Infelizmente, o tráfego HTTPS criptografado complica o monitoramento de segurança de rede. Alguns dispositivos de segurança incluem descriptografia e inspeção SSL; no entanto, isso pode apresentar problemas de processamento e privacidade. Além disso, o HTTPS adiciona complexidade às capturas de pacotes devido às mensagens adicionais envolvidas no estabelecimento da conexão criptografada. Esse processo é resumido na figura e representa sobrecarga adicional sobre HTTP.
 
+## Transações HTTPS
 
-
-
-
-
-
-
-
+![[Pasted image 20240604113518.png]]
 

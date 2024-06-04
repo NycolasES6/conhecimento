@@ -33,3 +33,31 @@
 - [[Redes da área local virtuais (VLANs)]]
 - [[Zona Desmilitarizada (DMZ)]]
 - [[Gerenciamento de ameaças a LAN]]
+
+## 5 - Blindagem (codificação) de dispositivos sem fio e móveis
+
+- [[Segurança de dispositivos sem fio]]
+- [[Autenticação]]
+- [[Protocolos de autenticação]]
+- [[Autenticação mútua]]
+- [[Gerenciamento de dispositivos móveis]]
+- [[Proteção de dispositivo móvel]]
+- [[Rastreamento de GPS]]
+
+## 6 - Resiliencia de Cybersegurança
+
+- [[Alta disponibilidade]]
+- [[Os cinco noves]]
+- [[]]
+- [[Pontos únicos de falha]]
+- [[Redundância N+1]]
+- [[RAID]]
+- [[Spanning Tree]]
+- [[Redundância de roteador]]
+- [[Redundância de local]]
+- [[Design resiliente]]
+- [[Sistema e backups de dados]]
+- [[Projetar um sistema de alta disponibilidade]]
+- [[Potência]]
+- [[Aquecimento, ventilação e ar-condicionado (HVAC)]]
+- [[Controle de ameaças a instalações físicas]]

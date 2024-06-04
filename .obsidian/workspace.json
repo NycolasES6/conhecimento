@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configurações packet tracer/VTP.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 19_Tecnologias e protocolos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf2f0bdf81880222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configurações packet tracer/VTP.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 19_Tecnologias e protocolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "configurações packet tracer/VTP.md",
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 19_Tecnologias e protocolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "configurações packet tracer/VTP.md"
+                "file": "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 19_Tecnologias e protocolos.md"
               }
             }
           }
@@ -149,24 +161,44 @@
   },
   "active": "4efc7b67ed112466",
   "lastOpenFiles": [
-    "exercicios/drf.md",
-    "configurações packet tracer/VTP.md",
-    "Pasted image 20240529171724.png",
-    "Pasted image 20240529171708.png",
-    "Pasted image 20240529171618.png",
+    "ICMP.md",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 19_Tecnologias e protocolos.md",
+    "Protocolos de email.md",
+    "Pasted image 20240604120134.png",
+    "HTTP e HTTPS.md",
+    "Pasted image 20240604113518.png",
+    "Pasted image 20240604113343.png",
+    "Pasted image 20240604113241.png",
+    "DNS.md",
+    "Pasted image 20240604112619.png",
+    "NTP.md",
+    "Pasted image 20240604112055.png",
+    "Syslog e NTP.md",
+    "Pasted image 20240604110135.png",
+    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/capitulos/CyberGames_Fundamentos Ciber - 12_Defesa do sistema e da rede.md",
+    "Controle de ameaças a instalações físicas.md",
+    "Aquecimento, ventilação e ar-condicionado (HVAC).md",
+    "Potência.md",
+    "Projetar um sistema de alta disponibilidade.md",
+    "Sistema e backups de dados.md",
+    "Design resiliente.md",
+    "Redundância de local.md",
+    "Redundância de roteador.md",
+    "Spanning Tree.md",
+    "Pasted image 20240604095954.png",
+    "RAID.md",
+    "Pasted image 20240604095421.png",
+    "Redundância N+1.md",
+    "Pontos únicos de falha.md",
+    "Os cinco noves.md",
+    "Alta disponibilidade.md",
+    "Rastreamento de GPS.md",
+    "Proteção de dispositivo móvel.md",
+    "Gerenciamento de dispositivos móveis.md",
+    "Autenticação mútua.md",
+    "Pasted image 20240604092257.png",
     "configurações packet tracer",
-    "config/DHCP em roteadores cisco.md",
-    "config/Configuração de interfaces.md",
-    "config/Configurar roteador cisco.md",
     "exercicios",
-    "Servidores DHCP.md",
-    "Endereçamento estático e dinâmico.md",
-    "Listas/links.md",
-    "Atribuição dinâmica de endereço IPv4.md",
-    "Untitled 2.md",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 11_Endereçamento dinâmico com DHCP.md",
-    "Pasted image 20240529113628.png",
-    "Pasted image 20240529113254.png",
     "Tipos de Ataque/Spyware.txt",
     "Tipos de Ataque/Spyware.md.txt",
     "Tipos de Ataque/Travessia de Caminho Relativo.txt",
@@ -175,25 +207,6 @@
     "Tipos de Ataque/Página de Sequestro (Page Hijacking).txt",
     "Tipos de Ataque/Previsão de Sessão.txt",
     "Tipos de Ataque/PlantaçãodeBinários.txt",
-    "Pasted image 20240529112807.png",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 10_Formatos e regras de endereçamento IPv6.md",
-    "Hexadecimal regra 1 -  Omitir zeros à esquerda.md",
-    "Hexadecimal regra 2 - Dois pontos duplos.md",
-    "Formatos de endereçamento IPv6.md",
-    "Pasted image 20240529105659.png",
-    "Sistema de enumeração hexadecimal.md",
-    "Coexistência entre IPv4 e IPv6.md",
-    "Pasted image 20240529104940.png",
-    "Pasted image 20240529104903.png",
-    "Pasted image 20240529104826.png",
-    "A necessidade do IPv6.md",
-    "Endereçamento IPv4 de uso especial.md",
-    "Broadcast.md",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 9_IPv4 e segmentação de rede.md",
-    "Razões para segmentar redes.md",
-    "Problemas com Domínios de Broadcast Grandes.md",
-    "Domínios de broadcast e segmentação.md",
-    "Atribuição de Endereços IP.md",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
