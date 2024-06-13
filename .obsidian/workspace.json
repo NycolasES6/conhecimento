@@ -4,40 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a089f7b4ce620688",
+        "id": "93a394f6dba95efb",
         "type": "tabs",
         "children": [
           {
-            "id": "4efc7b67ed112466",
+            "id": "3e1287eeb161d44f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configurações packet tracer/Roteador com DHCP para LANS.md",
+                "file": "cursos/Novo Pentest Profissional - DESEC/capitulos/Powershell  para pentesters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d8edc8df19106d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powershell - Criando um PortScanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae8e6213b45b6bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powershell - Test-NetConnection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "8ed3ae388700274e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b40aecd28c2437d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "configurações packet tracer/VTP server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
+    "width": 466.5,
     "collapsed": true
   },
   "right": {
@@ -104,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configurações packet tracer/Roteador com DHCP para LANS.md",
+                "file": "Powershell - Criando um PortScanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "configurações packet tracer/Roteador com DHCP para LANS.md",
+                "file": "Powershell - Criando um PortScanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "configurações packet tracer/Roteador com DHCP para LANS.md"
+                "file": "Powershell - Criando um PortScanner.md"
               }
             }
           }
@@ -165,54 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4efc7b67ed112466",
+  "active": "5d8edc8df19106d0",
   "lastOpenFiles": [
-    "configurações packet tracer/VTP server.md",
-    "configurações packet tracer/Roteador com DHCP para LANS.md",
-    "exercicios/drf.md",
-    "Pasted image 20240529171724.png",
-    "Pasted image 20240529171708.png",
-    "Pasted image 20240529171618.png",
-    "configurações packet tracer",
-    "config/DHCP em roteadores cisco.md",
-    "config/Configuração de interfaces.md",
-    "config/Configurar roteador cisco.md",
-    "exercicios",
-    "Servidores DHCP.md",
-    "Endereçamento estático e dinâmico.md",
+    "Governança da Segurança da Informação.pdf",
+    "cursos/Novo Pentest Profissional - DESEC/capitulos/Powershell  para pentesters.md",
+    "Powershell - Criando um PortScanner.md",
+    "Powershell - Test-NetConnection.md",
+    "Pasted image 20240613184010.png",
+    "Pasted image 20240613183225.png",
+    "Powershell - Buscar comandos e descrevelos.md",
+    "Powershell - ping sweep.md",
+    "cursos/Microsoft Learning/Gerenciar Servidores de arquivos do Windows Server.md",
+    "Definir o SMB e suas considerações de segurança.md",
+    "Definir o sistema de arquivos do Windows Server.md",
+    "Definir o Serviço de Cópias de Sombra de Volume.md",
+    "Pasted image 20240613170814.png",
+    "Pasted image 20240613170755.png",
+    "Windows Server - Configurar protocolo SMB.md",
+    "os/Windows.md",
+    "Configurar - gerenciamento de cotas e triagem de arquivo.md",
+    "Windows Server - Triagem de arquivo.md",
+    "Windows Server - Criar cota.md",
+    "Windows Server - File Server, conectando em outro computador.md",
+    "Pasted image 20240613161019.png",
+    "Pasted image 20240613160211.png",
+    "Pasted image 20240613160026.png",
+    "Pasted image 20240613155818.png",
+    "Pasted image 20240613155421.png",
+    "Pasted image 20240613155348.png",
+    "Untitled 4.md",
+    "os",
+    "Listar os benefícios e usos do Gerenciador de Recursos de Servidor de Arquivos.md",
+    "Untitled 3.md",
+    "Mi",
+    "Grupos no linux.md",
+    "cursos/Livros/Livros de linux.md",
+    "Listas/Lista de protocolos.md",
     "Listas/links.md",
-    "Atribuição dinâmica de endereço IPv4.md",
-    "Untitled 2.md",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 11_Endereçamento dinâmico com DHCP.md",
-    "Pasted image 20240529113628.png",
-    "Pasted image 20240529113254.png",
+    "Linguagens/Python.md",
+    "Linguagens/PowerShell.md",
+    "exercicios/drf.md",
+    "cursos/Microsoft Learning",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux",
+    "configurações packet tracer",
+    "exercicios",
     "Tipos de Ataque/Spyware.txt",
     "Tipos de Ataque/Spyware.md.txt",
-    "Tipos de Ataque/Travessia de Caminho Relativo.txt",
-    "Tipos de Ataque/Rastreamento Cross-Site.txt",
-    "Tipos de Ataque/Pós-execução de redireccionamento (EAR).txt",
-    "Tipos de Ataque/Página de Sequestro (Page Hijacking).txt",
-    "Tipos de Ataque/Previsão de Sessão.txt",
-    "Tipos de Ataque/PlantaçãodeBinários.txt",
-    "Pasted image 20240529112807.png",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 10_Formatos e regras de endereçamento IPv6.md",
-    "Hexadecimal regra 1 -  Omitir zeros à esquerda.md",
-    "Hexadecimal regra 2 - Dois pontos duplos.md",
-    "Formatos de endereçamento IPv6.md",
-    "Pasted image 20240529105659.png",
-    "Sistema de enumeração hexadecimal.md",
-    "Coexistência entre IPv4 e IPv6.md",
-    "Pasted image 20240529104940.png",
-    "Pasted image 20240529104903.png",
-    "Pasted image 20240529104826.png",
-    "A necessidade do IPv6.md",
-    "Endereçamento IPv4 de uso especial.md",
-    "Broadcast.md",
-    "cursos/Conceitos básicos de rede - CISCO/capitulos/Conceitos básicos de rede CISCO - 9_IPv4 e segmentação de rede.md",
-    "Razões para segmentar redes.md",
-    "Problemas com Domínios de Broadcast Grandes.md",
-    "Domínios de broadcast e segmentação.md",
-    "Atribuição de Endereços IP.md",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

@@ -12,3 +12,5 @@ Nas redes residenciais, é provável que o servidor DHCP esteja localizado no IS
 Muitas redes de residências e pequenas empresas usam um modem e um roteador sem fio. Nesse caso, o roteador sem fio é tanto servidor como cliente DHCP. O roteador sem fio atua como cliente para receber a configuração de IPv4 do ISP e atua como servidor DHCP para hosts internos na rede local. O roteador recebe o endereço IPv4 público do ISP e, em sua função como servidor DHCP, distribui endereços privados para os hosts internos.
 
 Além de servidores baseados em PC e roteadores sem fio, outros tipos de dispositivos de rede (como roteadores dedicados) podem fornecer serviços DHCP aos clientes, embora isso não seja tão comum.
+
+![[Pasted image 20240610085413.png]]

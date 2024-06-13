@@ -10,3 +10,12 @@
 - [[HTTP e HTTPS]]
 - [[Protocolos de email]]
 - [[ICMP]]
+
+## 2 - tecnologias de segurança
+
+- [[ACLs]]
+- [[Atenuante o abuso de ICMP]]
+- [[NAT e PAT]]
+- [[Criptografia, encapsulamento e tunelamento]]
+- [[Rede ponto a ponto e Tor]]
+- [[Balanceamento de carga]]

@@ -12,7 +12,20 @@
 - [[Formatos de endereçamento IPv6]]
 - [[Hexadecimal regra 1 -  Omitir zeros à esquerda]]
 - [[Hexadecimal regra 2 - Dois pontos duplos]]
-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,6 @@
+#Linux 
+# Visão geral de arquivos binários e de texto
+
+O Linux é compatível com diferentes tipos de arquivos, como diretórios, arquivos comuns, arquivos de pipe e arquivos de soquete. Este curso se concentra em diretórios e arquivos comuns, que são os tipos de arquivo com os quais usuários comuns interagem com mais frequência. _Arquivos comuns_ são arquivos de texto ou arquivos binários. Embora todos os arquivos sejam armazenados no sistema como uma série de bytes, os arquivos binários e de texto são interpretados de maneira diferente.
+
+Os _arquivos de texto_ seguem esquemas de codificação de caracteres padrão, como Unicode ou ASCII, para produzir sequências de caracteres legíveis. Você pode ver e editar arquivos de texto usando ferramentas de edição de texto amplamente disponíveis. Os _arquivos binários_ têm conteúdo estruturado que não se limita a conjuntos de caracteres legíveis. Os arquivos binários incluem programas executáveis _compilados_ e outros formatos de arquivo que só podem ser interpretados por programas compatíveis com esses formatos.
