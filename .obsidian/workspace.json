@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93a394f6dba95efb",
+        "id": "28a721463c9d7b05",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1287eeb161d44f",
+            "id": "342d781c3c719839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/Novo Pentest Profissional - DESEC/capitulos/Powershell  para pentesters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d8edc8df19106d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powershell - Criando um PortScanner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae8e6213b45b6bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powershell - Test-NetConnection.md",
+                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
+    "width": 349.5,
     "collapsed": true
   },
   "right": {
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powershell - Criando um PortScanner.md",
+                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Powershell - Criando um PortScanner.md",
+                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Powershell - Criando um PortScanner.md"
+                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md"
               }
             }
           }
@@ -172,54 +147,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8edc8df19106d0",
+  "active": "342d781c3c719839",
   "lastOpenFiles": [
-    "Governança da Segurança da Informação.pdf",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/Powershell  para pentesters.md",
-    "Powershell - Criando um PortScanner.md",
-    "Powershell - Test-NetConnection.md",
-    "Pasted image 20240613184010.png",
-    "Pasted image 20240613183225.png",
-    "Powershell - Buscar comandos e descrevelos.md",
-    "Powershell - ping sweep.md",
-    "cursos/Microsoft Learning/Gerenciar Servidores de arquivos do Windows Server.md",
-    "Definir o SMB e suas considerações de segurança.md",
-    "Definir o sistema de arquivos do Windows Server.md",
-    "Definir o Serviço de Cópias de Sombra de Volume.md",
-    "Pasted image 20240613170814.png",
-    "Pasted image 20240613170755.png",
-    "Windows Server - Configurar protocolo SMB.md",
-    "os/Windows.md",
-    "Configurar - gerenciamento de cotas e triagem de arquivo.md",
-    "Windows Server - Triagem de arquivo.md",
-    "Windows Server - Criar cota.md",
-    "Windows Server - File Server, conectando em outro computador.md",
-    "Pasted image 20240613161019.png",
-    "Pasted image 20240613160211.png",
-    "Pasted image 20240613160026.png",
-    "Pasted image 20240613155818.png",
-    "Pasted image 20240613155421.png",
-    "Pasted image 20240613155348.png",
-    "Untitled 4.md",
-    "os",
-    "Listar os benefícios e usos do Gerenciador de Recursos de Servidor de Arquivos.md",
-    "Untitled 3.md",
-    "Mi",
-    "Grupos no linux.md",
-    "cursos/Livros/Livros de linux.md",
-    "Listas/Lista de protocolos.md",
-    "Listas/links.md",
-    "Linguagens/Python.md",
-    "Linguagens/PowerShell.md",
-    "exercicios/drf.md",
-    "cursos/Microsoft Learning",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux",
-    "configurações packet tracer",
-    "exercicios",
-    "Tipos de Ataque/Spyware.txt",
-    "Tipos de Ataque/Spyware.md.txt",
+    "Linux - Instalação de pacotes de software.md",
+    "Linux - Localização de um aplicativo na linha de comando.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
+    "Linux - Configuração do FlatPak.md",
+    "Linux - Instalação de um aplicativo na linha de comando.md",
+    "Pasted image 20240614183526.png",
+    "Pasted image 20240614183458.png",
+    "Pasted image 20240614183437.png",
+    "Pasted image 20240614183429.png",
+    "Pasted image 20240614183417.png",
+    "Pasted image 20240614183350.png",
+    "Pasted image 20240614183221.png",
+    "Pasted image 20240614183214.png",
+    "Pasted image 20240614183030.png",
+    "Pasted image 20240614183010.png",
+    "Outras práticas de segurança de aplicativos.md",
+    "pdfs/GitNotesForProfessionals.pdf",
+    "pdfs/CNotesForProfessionals.pdf",
+    "pdfs/BashNotesForProfessionals.pdf",
+    "pdfs/PythonNotesForProfessionals.pdf",
+    "pdfs/PowerShellNotesForProfessionals.pdf",
+    "pdfs/LinuxNotesForProfessionals.pdf",
+    "pdfs/Testes de Invasao - Uma introducao pratica oa hacking.pdf",
+    "pdfs/Governança da Segurança da Informação.pdf",
+    "pdfs/Pentest em aplicacoes web - Daniel Moreno.pdf",
+    "pdfs",
+    "Linux - A ferramenta GNOME Software.md",
+    "Linux - Distribuição de software.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 5_Permissões de usuários e arquivos.md",
+    "Linux - Modificação das permissões de arquivos.md",
+    "Linux - Permissões de arquivos.md",
+    "Linux - Visualização de permissões de arquivos.md",
+    "Linux - Contas de usuários.md",
+    "Linux - Grupos de usuários.md",
+    "Linux - Identificadores de usuários e usuários do sistema.md",
+    "Linux - Privilégios de usuário.md",
+    "Linux - Propriedade de arquivos e diretórios.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 4_Visão geral dos sistemas de arquivos.md",
+    "Linux - Localização de arquivos e diretórios.md",
+    "Linux - Exibição do espaço de armazenamento.md",
+    "Linux - Prevenção da expansão.md",
+    "Linux - Processamento de lotes de arquivos.md",
+    "Linux - Remoção de arquivos e diretórios.md",
+    "Linux - Criação de atalhos para arquivos e diretórios.md",
+    "Linux - Renomeação de arquivos e diretórios.md",
+    "Linux - Transferência de arquivos e diretórios.md",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
