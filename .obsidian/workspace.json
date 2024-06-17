@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "28a721463c9d7b05",
+        "id": "5c57f4f2d4e9f4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "342d781c3c719839",
+            "id": "a3f01a7b1afeef6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
+                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 7_Redes Linux e recursos do sistema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e498b2328dc367e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux - Distribuição deum par de chaves SSH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tar.xz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
+                "file": "Linux - Distribuição deum par de chaves SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
+                "file": "Linux - Distribuição deum par de chaves SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md"
+                "file": "Linux - Distribuição deum par de chaves SSH.md"
               }
             }
           }
@@ -147,24 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "342d781c3c719839",
+  "active": "e498b2328dc367e2",
   "lastOpenFiles": [
-    "Linux - Instalação de pacotes de software.md",
-    "Linux - Localização de um aplicativo na linha de comando.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 7_Redes Linux e recursos do sistema.md",
+    "Linux - Criação de um par de chaves SSH.md",
+    "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
     "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
-    "Linux - Configuração do FlatPak.md",
-    "Linux - Instalação de um aplicativo na linha de comando.md",
-    "Pasted image 20240614183526.png",
-    "Pasted image 20240614183458.png",
-    "Pasted image 20240614183437.png",
-    "Pasted image 20240614183429.png",
-    "Pasted image 20240614183417.png",
-    "Pasted image 20240614183350.png",
-    "Pasted image 20240614183221.png",
-    "Pasted image 20240614183214.png",
-    "Pasted image 20240614183030.png",
-    "Pasted image 20240614183010.png",
-    "Outras práticas de segurança de aplicativos.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 5_Permissões de usuários e arquivos.md",
+    "Linux - Modificação das permissões de arquivos.md",
+    "Linux - Visualização de permissões de arquivos.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 4_Visão geral dos sistemas de arquivos.md",
+    "Linux - Exibição do espaço de armazenamento.md",
+    "Linux - Prevenção da expansão.md",
+    "Linux - Processamento de lotes de arquivos.md",
+    "Linux - Renomeação de arquivos e diretórios.md",
+    "Linux - Transferência de arquivos e diretórios.md",
+    "Linux - Cópia de arquivos e diretórios.md",
+    "Linux - Criação de diretórios e arquivos.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 3_Gerenciamento de arquivos no Linux.md",
+    "Exibição de arquivos de texto.md",
+    "Identificação de arquivos.md",
+    "Convenções de nomenclatura de arquivos.md",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 2_Acessando um Sistema Linux.md",
+    "Comandos de tabulação.md",
+    "Os tipos de sistema de arquivos no Linux.md",
+    "Definir o sistema de arquivos do Windows Server.md",
+    "Dados em Processo.md",
+    "cursos/Conceitos básicos de rede - CISCO/exames/Conceitos básicos de rede CISCO - Exame sobre O protocolo da Internet.md",
+    "Arquivos binários.md",
+    "Pasted image 20240617145117.png",
+    "Pasted image 20240617144944.png",
+    "Pasted image 20240617144810.png",
+    "Pasted image 20240617144424.png",
+    "Pasted image 20240617144337.png",
+    "Pasted image 20240617144101.png",
+    "Pasted image 20240617144013.png",
+    "Pasted image 20240617143515.png",
+    "Pasted image 20240617141835.png",
+    "Pasted image 20240617140935.png",
     "pdfs/GitNotesForProfessionals.pdf",
     "pdfs/CNotesForProfessionals.pdf",
     "pdfs/BashNotesForProfessionals.pdf",
@@ -175,26 +207,6 @@
     "pdfs/Governança da Segurança da Informação.pdf",
     "pdfs/Pentest em aplicacoes web - Daniel Moreno.pdf",
     "pdfs",
-    "Linux - A ferramenta GNOME Software.md",
-    "Linux - Distribuição de software.md",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 5_Permissões de usuários e arquivos.md",
-    "Linux - Modificação das permissões de arquivos.md",
-    "Linux - Permissões de arquivos.md",
-    "Linux - Visualização de permissões de arquivos.md",
-    "Linux - Contas de usuários.md",
-    "Linux - Grupos de usuários.md",
-    "Linux - Identificadores de usuários e usuários do sistema.md",
-    "Linux - Privilégios de usuário.md",
-    "Linux - Propriedade de arquivos e diretórios.md",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 4_Visão geral dos sistemas de arquivos.md",
-    "Linux - Localização de arquivos e diretórios.md",
-    "Linux - Exibição do espaço de armazenamento.md",
-    "Linux - Prevenção da expansão.md",
-    "Linux - Processamento de lotes de arquivos.md",
-    "Linux - Remoção de arquivos e diretórios.md",
-    "Linux - Criação de atalhos para arquivos e diretórios.md",
-    "Linux - Renomeação de arquivos e diretórios.md",
-    "Linux - Transferência de arquivos e diretórios.md",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
