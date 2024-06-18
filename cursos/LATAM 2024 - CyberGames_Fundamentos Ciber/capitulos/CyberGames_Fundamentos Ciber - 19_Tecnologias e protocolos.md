@@ -7,7 +7,7 @@
 - [[Syslog e NTP]]
 - [[NTP]]
 - [[DNS]]
-- [[HTTP e HTTPS]]
+- [[Redes - HTTP e HTTPS]]
 - [[Protocolos de email]]
 - [[ICMP]]
 

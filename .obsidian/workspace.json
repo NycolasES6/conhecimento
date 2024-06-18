@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5c57f4f2d4e9f4ce",
+        "id": "fe8dc4228288a980",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f01a7b1afeef6f",
+            "id": "e074ec55a9df6c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 7_Redes Linux e recursos do sistema.md",
+                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e498b2328dc367e2",
+            "id": "627621198d704a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Distribuição deum par de chaves SSH.md",
+                "file": "Windows Server - Instalando o Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tar.xz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 514.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - Distribuição deum par de chaves SSH.md",
+                "file": "Windows Server - Instalando o Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - Distribuição deum par de chaves SSH.md",
+                "file": "Windows Server - Instalando o Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - Distribuição deum par de chaves SSH.md"
+                "file": "Windows Server - Instalando o Active Directory.md"
               }
             }
           }
@@ -159,44 +160,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e498b2328dc367e2",
+  "active": "627621198d704a87",
   "lastOpenFiles": [
+    "Pasted image 20240618183713.png",
+    "Pasted image 20240618183512.png",
+    "Pasted image 20240618183407.png",
+    "Pasted image 20240618183139.png",
+    "Pasted image 20240618182958.png",
+    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+    "Windows Server - Instalando o Active Directory.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "cursos/Windows Server",
+    "Untitled",
+    "cursos/Microsoft Learning/Introdução ao WindowsPowerShell.md",
+    "PowerShell - Identificando e modificando a política de execução.md",
+    "cursos/Microsoft Learning/Gerenciar Servidores de arquivos do Windows Server.md",
+    "Untitled.md",
     "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 7_Redes Linux e recursos do sistema.md",
+    "Linux - Distribuição deum par de chaves SSH.md",
     "Linux - Criação de um par de chaves SSH.md",
-    "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
+    "Linux - Habilitação de login remoto na linha de comando.md",
+    "Linux - Acessar um sistema remoto a partir da área de trabalho.md",
     "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 5_Permissões de usuários e arquivos.md",
-    "Linux - Modificação das permissões de arquivos.md",
-    "Linux - Visualização de permissões de arquivos.md",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 4_Visão geral dos sistemas de arquivos.md",
-    "Linux - Exibição do espaço de armazenamento.md",
-    "Linux - Prevenção da expansão.md",
-    "Linux - Processamento de lotes de arquivos.md",
-    "Linux - Renomeação de arquivos e diretórios.md",
-    "Linux - Transferência de arquivos e diretórios.md",
-    "Linux - Cópia de arquivos e diretórios.md",
-    "Linux - Criação de diretórios e arquivos.md",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 3_Gerenciamento de arquivos no Linux.md",
-    "Exibição de arquivos de texto.md",
-    "Identificação de arquivos.md",
-    "Convenções de nomenclatura de arquivos.md",
-    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 2_Acessando um Sistema Linux.md",
-    "Comandos de tabulação.md",
-    "Os tipos de sistema de arquivos no Linux.md",
-    "Definir o sistema de arquivos do Windows Server.md",
-    "Dados em Processo.md",
-    "cursos/Conceitos básicos de rede - CISCO/exames/Conceitos básicos de rede CISCO - Exame sobre O protocolo da Internet.md",
-    "Arquivos binários.md",
-    "Pasted image 20240617145117.png",
-    "Pasted image 20240617144944.png",
-    "Pasted image 20240617144810.png",
-    "Pasted image 20240617144424.png",
-    "Pasted image 20240617144337.png",
-    "Pasted image 20240617144101.png",
-    "Pasted image 20240617144013.png",
-    "Pasted image 20240617143515.png",
-    "Pasted image 20240617141835.png",
-    "Pasted image 20240617140935.png",
+    "cursos/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 6_Obtenção e instalação de pacotes de software.md",
+    "cursos/Novo Pentest Profissional - DESEC/capitulos/TCP IP para pentesters.md",
+    "Redes - Bytes na rede.md",
+    "Pasted image 20240618131749.png",
+    "Redes - TTL.md",
+    "Redes - PING.md",
+    "Protocolo - ICMP.md",
+    "Pasted image 20240618115018.png",
+    "Pasted image 20240618114041.png",
+    "Pasted image 20240618114014.png",
+    "Redes - HTTP e HTTPS.md",
+    "Pasted image 20240618113214.png",
+    "Redes - Protocolos de rede.md",
+    "introdução a redes TCP IP.md",
+    "Redes - Protocolo UDP.md",
+    "Pasted image 20240618111802.png",
+    "Redes - Protocolo TCP.md",
+    "Cabeçalho do Segmento TCP.md",
     "pdfs/GitNotesForProfessionals.pdf",
     "pdfs/CNotesForProfessionals.pdf",
     "pdfs/BashNotesForProfessionals.pdf",
@@ -205,8 +211,6 @@
     "pdfs/LinuxNotesForProfessionals.pdf",
     "pdfs/Testes de Invasao - Uma introducao pratica oa hacking.pdf",
     "pdfs/Governança da Segurança da Informação.pdf",
-    "pdfs/Pentest em aplicacoes web - Daniel Moreno.pdf",
-    "pdfs",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

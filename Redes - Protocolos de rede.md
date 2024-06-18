@@ -1,4 +1,4 @@
-# Composição de um protocolo de rede
+# Redes - Protocolos de rede
 
 A maioria dos protocolos de rede sçao compostos por um cabeçalho e uma área de dados.
 
@@ -30,30 +30,22 @@ A maioria dos protocolos de rede sçao compostos por um cabeçalho e uma área d
 | Internet      |
 | Acesso a rede |
 
+### Híbrido
+
+
+| Híbrido    |
+| ---------- |
+| Aplicação  |
+| Transporte |
+| Rede       |
+| Enlace     |
+| Física     |
+
 ## Exemplo de encapsulamento
 
-Um **frame** ethernet contém um **pacote** IP que contém um segmento **TCP** que contém os **dados** com o protocolo http.
+Um **frame ethernet** contém um **pacote IP** que contém um segmento **TCP** que contém os **dados** com o protocolo **http**.
 
-
-| PROTOCOLO HTTP |
-| -------------- |
-
-| Header TCP | Payload TCP |
-| ---------- | ----------- |
-
-| Header IP | Payload TCP |
-| --------- | ----------- |
-
-| Header IP | Payload IP |
-| --------- | ---------- |
-
-| Header Ethernet | Payload Ethernet |
-| --------------- | ---------------- |
-
-## Exemplo
-
-Para que uma simples comunicação abaix
-
+![[Pasted image 20240618090736.png]]
 
 
 

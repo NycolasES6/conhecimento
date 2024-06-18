@@ -4,7 +4,7 @@
 ## 1 - TCP e UDP
 
 - [[Introdução ao TCP e UDP]]
-- [[TCP]]
+- [[Redes - Protocolo TCP]]
 
 ## 2 - Números de portas
 

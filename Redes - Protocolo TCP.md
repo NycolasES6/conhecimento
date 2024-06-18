@@ -18,6 +18,9 @@ Para estabelecer uma conexao, o protocolo TCP usa o Handshake de três vias. Sen
 | Client | SYN     | Faz o pedido de conexão |
 | Server | ACK SYN | Confirma o pedido       |
 | Client | ACK     | Estabelece a conexão    |
+## Flags TCP
+
+![[Pasted image 20240618110137.png]]
 
 ## Transferência de dados
 

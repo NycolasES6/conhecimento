@@ -2,6 +2,20 @@
 
 # HTTP e HTTPS
 
+## Estrutura HTTP
+
+A estrutura HTTP é composta de um **Header** e um **Body**.
+
+O protocolo HTTP suporta vários métodos tais como GET, POST, HEAD, PUT, DELETE e OPTIONS.
+
+Os mais utilizados são o método **GET** para requisitar recursos e o método **POST** para enviar dados como por exemplo formulários de páginas.
+
+![[Pasted image 20240618113214.png]]
+
+
+
+---
+
 Os navegadores da Internet são usados por quase todos. Bloquear completamente a navegação na Web não é uma opção porque as empresas precisam de acesso à Web, sem comprometer a segurança da Web.
 
 Para investigar ataques baseados na Web, os analistas de segurança devem ter uma boa compreensão de como funciona um ataque padrão baseado na Web. Estes são os estágios comuns de um ataque típico da web:
