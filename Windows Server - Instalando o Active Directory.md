@@ -39,6 +39,62 @@ No nosso caso é o **Active directory Domain Services**
 
 Na próxima aba ele mostrará quais serviços vão ser instalados junto com o Active Directory Domain Services
 
+![[Pasted image 20240620135810.png]]
+
+## Recursos
+
+Caso queira adicionar algum recurso, basta marcar a caixa do serviço que queremos adicionar. 
+
+E clicamos em nada
+
+Depois ele vai mostrar algumas informações do AD, apenas clique em **próximo** e **instalar**.
+
+Depois de instalar, apenas feche a janela.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
