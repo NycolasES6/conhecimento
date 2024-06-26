@@ -160,6 +160,102 @@ python3 -m http.server -p 443
 
 Isso hospedará nosso servidor web Python na porta 443 em vez da porta padrão `TCP/8000`. Podemos acessar este servidor web digitando o link em nosso navegador.
 
+## VPN
+
+Rede Privada Virtual ( `VPN`) é uma tecnologia que nos permite conectar-nos com segurança a outra rede como se estivéssemos diretamente nela. Isso é feito criando uma conexão de túnel criptografada entre o cliente e o servidor,
+
+Alguns dos servidores VPN mais populares para servidores Linux são OpenVPN, L2TP/IPsec, PPTP, SSTP e SoftEther.
+
+O OpenVPN nos fornece uma variedade de recursos, incluindo criptografia, tunelamento, modelagem de tráfego, roteamento de rede e a capacidade de se adaptar a redes que mudam dinamicamente.
+
+
+### Instale o OpenVPN
+
+```bash
+sudo apt install openvpn -y
+```
+
+OpenVPN pode ser personalizado e configurado editando o arquivo de configuração `/etc/openvpn/server.conf`.
+
+### Conecte-se á VPN
+
+Podemos nos conectar a uma VPN através de um arquivo `.ovpn`
+
+```bash
+sudo openvpn --config internal.ovpn
+```
+
+Depois que a conexão for estabelecida, podemos nos comunicar com os hosts internos da rede interna.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
